@@ -1,4 +1,6 @@
 from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 
 from api.schemas import PacienteSchema
@@ -16,6 +18,12 @@ app = FastAPI(
     version="1.0"
 )
 
+app.mount(
+    "/frontend",
+    StaticFiles(directory="frontend"),
+    name="frontend"
+)
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -27,9 +35,7 @@ app.add_middleware(
 
 @app.get("/")
 def inicio():
-    return {
-        "mensaje": "API funcionando correctamente"
-    }
+    return FileResponse("frontend/index.html")
 
 
 # =========================
@@ -40,7 +46,6 @@ def predecir(data: PacienteSchema):
 
     datos = data.dict()
 
-    # VALIDACIÓN CLÍNICA
     validacion = validar_paciente(datos)
 
     if not validacion["valido"]:
@@ -75,7 +80,7 @@ def predecir(data: PacienteSchema):
     db.add(nuevo_paciente)
     db.commit()
 
-    # Obtener ID generado
+    # Obtener ID generado automáticamente
     db.refresh(nuevo_paciente)
 
     db.close()
@@ -86,6 +91,7 @@ def predecir(data: PacienteSchema):
         "descripcion": descripcion,
         "validacion": validacion
     }
+
 
 # =========================
 # LISTAR PACIENTES
@@ -171,6 +177,7 @@ def obtener_paciente(id_paciente: int):
         "descripcion": descripcion
     }
 
+
 # =========================
 # ACTUALIZAR PACIENTE
 # =========================
@@ -185,12 +192,19 @@ def actualizar_paciente(id_paciente: int, data: PacienteSchema):
 
     if paciente is None:
         db.close()
-        return {"mensaje": "Paciente no encontrado"}
+
+        return {
+            "mensaje": "Paciente no encontrado"
+        }
 
     datos = data.dict()
 
     prioridad = predecir_paciente(datos)
-    descripcion = generar_explicacion(datos, prioridad)
+
+    descripcion = generar_explicacion(
+        datos,
+        prioridad
+    )
 
     paciente.edad = data.edad
     paciente.sexo = data.sexo
@@ -228,9 +242,13 @@ def eliminar_paciente(id_paciente: int):
 
     if paciente is None:
         db.close()
-        return {"mensaje": "Paciente no encontrado"}
+
+        return {
+            "mensaje": "Paciente no encontrado"
+        }
 
     db.delete(paciente)
+
     db.commit()
     db.close()
 

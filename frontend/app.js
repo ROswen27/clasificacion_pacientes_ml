@@ -18,11 +18,11 @@ async function clasificarPaciente() {
         condicion_cronica: document.getElementById("cronica").value
     };
 
-    let url = "http://127.0.0.1:8000/predecir";
+    let url = "/predecir";
     let method = "POST";
 
     if (pacienteEditando !== null) {
-        url = `http://127.0.0.1:8000/paciente/${pacienteEditando}`;
+        url = `/paciente/${pacienteEditando}`;
         method = "PUT";
     }
 
@@ -77,7 +77,7 @@ async function clasificarPaciente() {
 async function cargarPacientes() {
 
     const respuesta = await fetch(
-        "http://127.0.0.1:8000/pacientes"
+        "/pacientes"
     );
 
     const pacientes = await respuesta.json();
@@ -158,7 +158,7 @@ async function cargarPacientes() {
 async function editarPaciente(id) {
 
     const respuesta = await fetch(
-        `http://127.0.0.1:8000/paciente/${id}`
+        `/paciente/${id}`
     );
 
     const paciente = await respuesta.json();
@@ -207,7 +207,7 @@ async function editarPaciente(id) {
 async function verReporte(id) {
 
     const respuesta = await fetch(
-        `http://127.0.0.1:8000/paciente/${id}`
+        `/paciente/${id}`
     );
 
     const paciente = await respuesta.json();
@@ -308,7 +308,7 @@ async function eliminarPaciente(id) {
     }
 
     await fetch(
-        `http://127.0.0.1:8000/paciente/${id}`,
+        `/paciente/${id}`,
         {
             method: "DELETE"
         }
@@ -376,7 +376,7 @@ async function buscarPaciente() {
     }
 
     const respuesta = await fetch(
-        `http://127.0.0.1:8000/paciente/${id}`
+        `/paciente/${id}`
     );
 
     const paciente = await respuesta.json();
