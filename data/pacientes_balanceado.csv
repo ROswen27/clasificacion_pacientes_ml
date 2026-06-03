@@ -1,0 +1,501 @@
+id_paciente,edad,sexo,temperatura_c,frecuencia_cardiaca,presion_sistolica,presion_diastolica,saturacion_oxigeno,nivel_dolor,sintoma,condicion_cronica,prioridad
+362,21,M,40.1,139,170,105,89,9,perdida de conciencia,diabetes e hipertension,ALTA
+74,14,F,37.0,76,110,61,100,0,cefalea leve,diabetes,BAJA
+375,78,M,40.5,124,169,107,87,8,convulsiones,diabetes e hipertension,ALTA
+156,67,F,36.3,85,120,76,97,3,control rutinario,diabetes,BAJA
+105,79,F,37.0,83,100,77,97,2,alergia,diabetes e hipertension,BAJA
+395,26,M,39.8,140,196,113,87,10,convulsiones,hipertension,ALTA
+378,43,F,39.8,150,159,91,80,9,dolor toracico,diabetes e hipertension,ALTA
+125,40,F,37.2,61,119,78,98,2,alergia,asma,BAJA
+69,22,F,36.8,67,124,80,97,1,malestar general,hipertension,BAJA
+451,5,M,39.6,135,184,106,85,8,dolor toracico,ninguna,ALTA
+10,35,M,36.4,84,101,72,96,0,control rutinario,asma,BAJA
+195,83,M,38.8,104,147,87,91,6,infeccion,diabetes e hipertension,MEDIA
+407,83,F,39.2,150,170,109,89,9,dificultad respiratoria,diabetes,ALTA
+85,79,M,36.5,70,103,76,99,3,resfriado,asma,BAJA
+372,78,M,39.4,129,197,93,80,8,dificultad respiratoria,diabetes,ALTA
+389,18,F,39.4,152,187,113,81,10,convulsiones,asma,ALTA
+496,92,M,40.9,158,184,99,80,10,dolor toracico,hipertension,ALTA
+31,33,M,36.1,82,116,67,100,1,control rutinario,ninguna,BAJA
+317,36,M,38.6,92,137,90,90,4,dolor abdominal,asma,MEDIA
+409,90,M,39.3,156,178,97,84,10,perdida de conciencia,diabetes,ALTA
+491,32,M,39.8,154,176,111,87,10,dolor toracico,diabetes e hipertension,ALTA
+492,49,F,40.7,142,153,105,85,10,perdida de conciencia,diabetes e hipertension,ALTA
+281,32,M,38.1,99,125,89,92,7,fiebre,hipertension,MEDIA
+357,6,M,40.2,149,152,116,89,10,hemorragia,ninguna,ALTA
+77,71,M,36.9,86,107,61,96,1,resfriado,ninguna,BAJA
+462,81,M,39.2,130,183,119,86,10,dificultad respiratoria,diabetes,ALTA
+498,49,M,40.7,133,167,105,86,10,convulsiones,asma,ALTA
+212,81,M,38.0,118,150,91,90,6,tos persistente,asma,MEDIA
+102,20,F,37.4,90,109,69,96,0,cefalea leve,diabetes,BAJA
+335,66,F,39.8,125,185,109,81,10,hemorragia,asma,ALTA
+476,81,M,40.6,147,158,98,89,10,dolor toracico,diabetes e hipertension,ALTA
+337,12,M,40.3,133,184,92,85,8,hemorragia,diabetes e hipertension,ALTA
+441,15,F,39.7,140,150,106,80,9,dolor toracico,hipertension,ALTA
+174,19,M,38.8,94,130,94,92,4,dolor abdominal,diabetes e hipertension,MEDIA
+3,17,F,36.6,87,122,72,96,2,control rutinario,hipertension,BAJA
+334,13,M,40.3,155,172,113,82,10,perdida de conciencia,ninguna,ALTA
+410,61,M,40.5,152,160,120,88,10,dolor toracico,diabetes e hipertension,ALTA
+71,19,F,37.4,62,103,80,96,1,malestar general,asma,BAJA
+210,55,F,38.9,98,155,92,95,4,tos persistente,diabetes,MEDIA
+64,65,F,36.8,64,104,76,97,3,cefalea leve,hipertension,BAJA
+385,69,M,40.8,131,152,113,81,8,hemorragia,diabetes,ALTA
+94,23,F,37.2,66,121,68,98,2,control rutinario,asma,BAJA
+486,86,F,39.4,133,179,116,80,9,hemorragia,diabetes,ALTA
+186,90,M,38.4,96,149,94,91,4,infeccion,asma,MEDIA
+34,11,F,37.0,83,105,69,96,0,alergia,hipertension,BAJA
+78,70,M,37.1,64,118,60,98,3,cefalea leve,hipertension,BAJA
+1,45,F,36.0,72,113,81,98,3,resfriado,hipertension,BAJA
+12,49,M,36.4,84,117,65,97,1,control rutinario,asma,BAJA
+416,60,F,39.4,125,193,118,82,8,dificultad respiratoria,hipertension,ALTA
+23,23,F,36.5,78,104,64,100,2,cefalea leve,diabetes,BAJA
+73,26,F,37.1,78,120,82,100,2,alergia,asma,BAJA
+183,15,M,37.9,111,156,87,90,6,tos persistente,hipertension,MEDIA
+132,54,M,37.4,77,129,82,96,2,resfriado,ninguna,BAJA
+411,47,F,40.0,160,178,110,89,10,perdida de conciencia,diabetes,ALTA
+194,82,F,38.6,94,133,90,92,5,fractura,asma,MEDIA
+56,76,M,36.7,86,116,77,96,3,alergia,hipertension,BAJA
+149,80,F,36.6,69,129,72,98,1,cefalea leve,diabetes e hipertension,BAJA
+19,22,F,37.0,72,106,65,96,2,cefalea leve,diabetes,BAJA
+205,16,F,38.5,100,126,77,90,5,tos persistente,hipertension,MEDIA
+79,72,M,37.0,86,114,72,96,1,malestar general,diabetes e hipertension,BAJA
+495,10,M,40.6,160,161,90,81,8,dificultad respiratoria,diabetes,ALTA
+263,67,M,38.8,91,131,88,90,7,fractura,diabetes,MEDIA
+324,49,F,37.6,114,157,90,90,7,tos persistente,diabetes e hipertension,MEDIA
+484,6,F,40.8,121,157,116,82,8,hemorragia,diabetes e hipertension,ALTA
+80,71,F,36.8,64,119,66,99,2,malestar general,diabetes,BAJA
+40,79,F,37.0,67,127,64,99,1,malestar general,diabetes,BAJA
+452,31,M,39.8,134,163,118,84,10,convulsiones,diabetes e hipertension,ALTA
+47,10,M,36.5,69,128,83,96,3,resfriado,diabetes e hipertension,BAJA
+239,20,F,37.5,111,160,76,90,4,fractura,asma,MEDIA
+392,39,M,39.7,130,199,108,84,8,dolor toracico,diabetes,ALTA
+353,59,M,39.7,125,177,115,89,8,dificultad respiratoria,ninguna,ALTA
+342,76,F,39.4,125,150,115,80,10,dolor toracico,ninguna,ALTA
+278,42,M,38.5,106,127,77,94,5,infeccion,hipertension,MEDIA
+291,48,M,38.2,91,124,94,92,4,dolor abdominal,diabetes,MEDIA
+318,32,F,38.9,100,146,88,90,5,dolor abdominal,asma,MEDIA
+305,44,M,38.5,99,130,75,92,5,fiebre,asma,MEDIA
+269,51,F,38.7,106,149,81,92,4,fractura,ninguna,MEDIA
+70,69,M,36.9,86,109,79,97,1,cefalea leve,diabetes e hipertension,BAJA
+456,15,M,39.2,150,165,111,86,8,dificultad respiratoria,ninguna,ALTA
+466,46,M,39.3,124,182,119,88,8,perdida de conciencia,hipertension,ALTA
+155,28,M,36.3,71,111,72,98,1,malestar general,ninguna,BAJA
+83,52,F,36.7,66,112,66,98,0,cefalea leve,diabetes,BAJA
+478,23,F,40.0,124,192,103,89,9,perdida de conciencia,diabetes e hipertension,ALTA
+173,40,F,38.1,116,134,94,95,7,fiebre,diabetes,MEDIA
+322,87,F,39.0,109,125,83,94,5,infeccion,ninguna,MEDIA
+91,56,F,37.4,88,115,75,96,2,alergia,ninguna,BAJA
+181,23,M,38.8,95,142,80,94,6,fiebre,diabetes e hipertension,MEDIA
+415,87,F,40.3,125,175,118,86,8,dolor toracico,diabetes e hipertension,ALTA
+313,49,M,38.7,119,135,77,91,7,fiebre,diabetes e hipertension,MEDIA
+279,23,M,39.0,116,153,95,95,5,fiebre,diabetes e hipertension,MEDIA
+382,19,M,40.9,129,189,99,81,9,hemorragia,diabetes,ALTA
+473,91,M,40.5,136,180,116,81,10,hemorragia,asma,ALTA
+363,69,F,39.3,143,195,91,86,9,convulsiones,asma,ALTA
+325,36,F,37.5,107,142,88,94,5,dolor abdominal,hipertension,MEDIA
+432,51,M,39.3,127,153,113,80,8,convulsiones,asma,ALTA
+348,80,F,41.0,157,194,119,86,9,hemorragia,ninguna,ALTA
+87,76,F,37.2,73,116,79,99,3,alergia,asma,BAJA
+76,34,M,37.1,89,128,67,99,3,resfriado,ninguna,BAJA
+439,78,F,39.4,159,200,95,80,9,convulsiones,diabetes,ALTA
+16,41,F,37.4,77,110,83,96,1,malestar general,hipertension,BAJA
+250,68,M,38.5,100,121,95,92,4,fractura,ninguna,MEDIA
+434,33,M,39.7,122,183,105,89,9,convulsiones,asma,ALTA
+20,50,M,36.1,86,107,81,100,2,cefalea leve,diabetes,BAJA
+323,20,F,38.5,117,155,77,93,5,infeccion,diabetes,MEDIA
+333,44,M,38.4,101,156,86,94,6,fractura,diabetes e hipertension,MEDIA
+57,56,M,36.6,63,111,74,100,0,resfriado,ninguna,BAJA
+302,59,F,37.5,111,144,88,93,6,dolor abdominal,ninguna,MEDIA
+230,73,F,38.4,105,160,78,90,7,tos persistente,diabetes,MEDIA
+332,69,M,37.7,113,138,85,91,6,tos persistente,asma,MEDIA
+133,20,F,36.0,85,110,65,96,2,cefalea leve,diabetes,BAJA
+138,77,M,36.3,88,127,74,98,0,cefalea leve,asma,BAJA
+424,12,M,39.3,124,152,107,88,10,perdida de conciencia,diabetes,ALTA
+336,90,M,39.2,133,152,109,87,10,hemorragia,diabetes e hipertension,ALTA
+26,23,M,37.3,66,119,69,98,3,resfriado,asma,BAJA
+465,4,F,39.0,142,159,107,84,9,dolor toracico,ninguna,ALTA
+282,54,F,38.8,99,137,79,93,6,dolor abdominal,diabetes e hipertension,MEDIA
+248,17,M,39.0,92,132,85,94,6,fractura,asma,MEDIA
+238,38,M,37.5,101,141,83,90,5,tos persistente,asma,MEDIA
+118,7,M,36.1,69,112,83,97,3,cefalea leve,diabetes,BAJA
+43,54,M,36.2,62,115,61,96,1,malestar general,asma,BAJA
+221,41,M,38.4,107,122,92,93,7,dolor abdominal,diabetes,MEDIA
+177,69,M,38.3,116,157,88,93,6,fiebre,diabetes,MEDIA
+321,25,M,38.4,117,126,75,95,6,tos persistente,diabetes,MEDIA
+154,31,F,36.6,76,104,62,100,3,malestar general,diabetes e hipertension,BAJA
+232,84,F,38.2,100,150,93,95,5,infeccion,diabetes e hipertension,MEDIA
+228,72,M,37.9,98,150,93,90,5,fractura,diabetes,MEDIA
+418,79,F,40.3,153,157,108,88,10,hemorragia,diabetes e hipertension,ALTA
+204,13,M,37.8,116,155,94,91,6,fractura,diabetes e hipertension,MEDIA
+127,64,F,36.1,77,121,80,97,1,control rutinario,asma,BAJA
+330,21,F,38.7,103,156,78,93,5,tos persistente,hipertension,MEDIA
+32,51,F,37.4,78,127,62,100,3,cefalea leve,diabetes,BAJA
+114,28,M,36.8,78,122,68,100,0,cefalea leve,asma,BAJA
+471,15,M,40.5,121,181,116,82,10,hemorragia,diabetes,ALTA
+272,70,M,38.1,95,138,88,91,7,infeccion,asma,MEDIA
+141,78,F,36.2,76,121,68,97,1,control rutinario,asma,BAJA
+58,13,F,36.2,80,114,76,99,1,control rutinario,diabetes,BAJA
+193,89,M,37.8,98,160,78,94,6,fiebre,ninguna,MEDIA
+25,49,F,36.4,81,107,63,96,2,control rutinario,hipertension,BAJA
+18,33,M,37.2,79,124,81,99,1,resfriado,asma,BAJA
+266,70,M,39.0,120,159,77,95,7,infeccion,diabetes,MEDIA
+67,40,F,36.8,89,127,63,96,3,cefalea leve,hipertension,BAJA
+209,37,M,38.0,94,139,93,94,6,tos persistente,diabetes,MEDIA
+480,54,M,39.9,136,197,93,88,9,dolor toracico,asma,ALTA
+95,22,F,36.2,79,127,82,96,1,malestar general,asma,BAJA
+254,19,F,38.9,111,160,79,92,7,fractura,asma,MEDIA
+267,69,F,38.5,114,136,82,90,4,fractura,diabetes,MEDIA
+24,26,M,37.2,72,119,62,97,3,malestar general,diabetes,BAJA
+223,87,F,37.6,118,134,83,94,7,fiebre,diabetes,MEDIA
+262,27,M,38.2,116,142,90,93,6,tos persistente,asma,MEDIA
+427,25,F,39.2,133,156,96,88,10,convulsiones,hipertension,ALTA
+6,7,F,36.1,70,113,65,97,2,resfriado,hipertension,BAJA
+117,34,F,36.5,74,111,82,97,2,alergia,hipertension,BAJA
+46,76,F,36.6,69,118,70,99,0,cefalea leve,asma,BAJA
+17,51,F,37.1,66,116,71,100,0,resfriado,ninguna,BAJA
+463,53,M,39.7,135,195,109,88,8,convulsiones,ninguna,ALTA
+358,83,M,39.4,159,165,103,83,10,dolor toracico,asma,ALTA
+4,37,F,36.3,74,111,76,96,3,alergia,hipertension,BAJA
+219,62,F,38.5,102,148,80,90,7,dolor abdominal,diabetes e hipertension,MEDIA
+406,87,F,39.3,148,152,113,83,10,convulsiones,diabetes,ALTA
+61,14,M,37.1,72,121,76,99,2,control rutinario,ninguna,BAJA
+111,71,F,36.1,75,121,79,100,3,resfriado,diabetes,BAJA
+319,74,M,38.2,92,122,95,93,6,tos persistente,ninguna,MEDIA
+429,57,M,40.7,141,154,99,84,10,hemorragia,hipertension,ALTA
+30,64,F,37.0,74,120,81,97,1,control rutinario,hipertension,BAJA
+438,81,F,40.4,149,168,95,86,9,convulsiones,asma,ALTA
+472,93,M,40.5,159,161,111,86,9,perdida de conciencia,diabetes e hipertension,ALTA
+27,35,M,36.4,84,109,70,100,0,alergia,asma,BAJA
+8,29,M,37.2,65,119,71,99,2,control rutinario,diabetes,BAJA
+454,38,M,40.9,139,155,103,88,10,hemorragia,hipertension,ALTA
+109,29,F,37.2,68,110,82,99,1,control rutinario,diabetes e hipertension,BAJA
+38,42,F,36.4,78,117,85,98,2,cefalea leve,asma,BAJA
+158,39,M,36.4,75,101,84,98,2,control rutinario,ninguna,BAJA
+490,18,M,39.2,153,187,103,86,8,dificultad respiratoria,ninguna,ALTA
+119,30,F,36.7,66,130,77,99,3,cefalea leve,diabetes,BAJA
+115,62,M,36.6,85,125,71,100,2,malestar general,hipertension,BAJA
+176,45,F,38.6,100,143,89,91,4,infeccion,asma,MEDIA
+374,19,F,40.7,153,200,107,84,10,dolor toracico,ninguna,ALTA
+182,39,F,37.8,113,145,77,94,5,dolor abdominal,asma,MEDIA
+145,60,M,36.6,65,100,67,98,0,cefalea leve,ninguna,BAJA
+370,87,M,39.4,123,185,94,81,8,dificultad respiratoria,ninguna,ALTA
+391,55,F,40.9,141,158,90,84,9,dolor toracico,diabetes,ALTA
+196,49,M,38.6,95,133,91,93,5,dolor abdominal,diabetes e hipertension,MEDIA
+405,93,F,40.2,153,191,118,86,8,hemorragia,diabetes,ALTA
+276,13,M,38.0,97,150,88,90,7,tos persistente,hipertension,MEDIA
+455,56,M,40.8,139,154,95,85,10,dificultad respiratoria,hipertension,ALTA
+142,73,M,37.1,81,119,83,97,1,control rutinario,ninguna,BAJA
+366,62,F,39.4,150,178,120,83,9,dolor toracico,hipertension,ALTA
+68,7,F,37.3,84,114,61,97,0,alergia,ninguna,BAJA
+211,20,F,38.2,115,139,82,91,4,dolor abdominal,asma,MEDIA
+169,88,M,38.7,94,144,91,94,5,infeccion,hipertension,MEDIA
+494,43,M,39.0,141,152,110,81,9,dolor toracico,hipertension,ALTA
+376,91,M,39.5,143,193,107,85,9,perdida de conciencia,diabetes,ALTA
+401,85,M,40.3,160,163,117,88,9,perdida de conciencia,ninguna,ALTA
+273,36,M,38.6,100,150,85,90,4,fractura,asma,MEDIA
+110,24,F,36.6,66,101,82,96,1,resfriado,diabetes e hipertension,BAJA
+249,79,M,37.9,113,134,91,91,7,fiebre,asma,MEDIA
+146,65,F,36.8,89,109,76,96,2,alergia,ninguna,BAJA
+93,46,M,36.9,85,125,84,99,3,cefalea leve,ninguna,BAJA
+153,46,M,37.2,67,129,74,98,3,resfriado,diabetes,BAJA
+368,38,F,39.4,125,177,118,85,8,dolor toracico,diabetes,ALTA
+468,14,F,40.8,157,160,113,87,9,dolor toracico,asma,ALTA
+84,13,F,37.3,90,113,68,98,3,control rutinario,diabetes e hipertension,BAJA
+246,16,F,38.2,100,122,95,93,7,dolor abdominal,ninguna,MEDIA
+166,68,M,36.4,81,117,70,100,2,resfriado,hipertension,BAJA
+164,10,F,37.1,74,109,81,99,3,resfriado,hipertension,BAJA
+200,53,M,39.0,101,124,89,91,4,dolor abdominal,hipertension,MEDIA
+229,42,F,38.2,107,129,76,90,6,tos persistente,hipertension,MEDIA
+75,73,F,36.1,61,107,64,99,0,resfriado,diabetes e hipertension,BAJA
+479,18,M,41.0,137,170,92,80,10,convulsiones,diabetes e hipertension,ALTA
+359,37,M,40.7,140,151,98,85,10,convulsiones,ninguna,ALTA
+251,22,M,38.1,103,128,95,93,6,infeccion,hipertension,MEDIA
+120,26,M,36.9,76,102,85,100,0,alergia,ninguna,BAJA
+311,25,M,38.1,114,129,83,92,5,fractura,diabetes e hipertension,MEDIA
+300,81,M,38.4,94,156,78,94,4,fiebre,ninguna,MEDIA
+256,28,F,38.2,100,152,87,95,6,tos persistente,ninguna,MEDIA
+355,27,M,39.1,123,166,112,84,9,dificultad respiratoria,ninguna,ALTA
+400,50,F,40.6,137,169,110,84,8,convulsiones,ninguna,ALTA
+226,48,F,39.0,101,126,76,90,7,fiebre,diabetes,MEDIA
+354,59,F,39.7,130,173,91,86,10,convulsiones,diabetes e hipertension,ALTA
+235,23,F,37.6,108,130,79,95,4,tos persistente,asma,MEDIA
+383,50,F,40.9,129,179,117,82,8,dificultad respiratoria,diabetes,ALTA
+275,64,F,38.3,101,152,88,93,4,dolor abdominal,diabetes e hipertension,MEDIA
+37,73,M,37.3,88,104,84,96,0,malestar general,ninguna,BAJA
+197,54,M,38.1,94,127,86,92,4,dolor abdominal,diabetes e hipertension,MEDIA
+140,80,F,36.8,90,127,76,96,3,alergia,asma,BAJA
+365,90,M,39.1,142,185,114,86,10,dolor toracico,ninguna,ALTA
+245,77,M,38.0,116,133,76,95,5,infeccion,diabetes e hipertension,MEDIA
+440,76,F,40.9,159,177,98,84,9,hemorragia,hipertension,ALTA
+287,68,M,39.0,103,122,89,94,4,dolor abdominal,hipertension,MEDIA
+60,47,M,37.0,78,118,72,99,0,resfriado,ninguna,BAJA
+112,68,F,37.4,76,115,63,97,1,alergia,ninguna,BAJA
+90,35,F,36.2,79,104,83,99,0,resfriado,diabetes,BAJA
+437,57,M,39.0,138,169,97,86,10,convulsiones,hipertension,ALTA
+7,71,F,37.3,79,108,70,98,1,cefalea leve,hipertension,BAJA
+361,33,F,39.9,142,155,100,88,9,dificultad respiratoria,diabetes,ALTA
+347,29,F,40.4,134,189,116,81,8,perdida de conciencia,ninguna,ALTA
+339,22,M,39.7,149,155,118,89,8,dificultad respiratoria,diabetes e hipertension,ALTA
+159,67,M,37.2,68,129,69,96,0,cefalea leve,asma,BAJA
+151,26,M,36.7,84,108,79,100,3,control rutinario,diabetes,BAJA
+178,74,M,37.6,115,155,90,92,4,infeccion,hipertension,MEDIA
+394,87,F,40.2,139,174,113,86,8,dolor toracico,ninguna,ALTA
+185,36,M,38.7,114,150,91,90,6,fiebre,ninguna,MEDIA
+450,74,M,39.9,159,189,90,81,8,dolor toracico,diabetes,ALTA
+11,67,F,37.2,82,117,63,97,1,cefalea leve,ninguna,BAJA
+381,75,F,39.2,127,156,113,82,8,dolor toracico,hipertension,ALTA
+104,77,F,36.4,76,103,80,97,2,control rutinario,diabetes e hipertension,BAJA
+82,46,F,36.5,70,121,64,99,3,malestar general,diabetes e hipertension,BAJA
+39,15,M,36.4,65,123,83,100,2,control rutinario,diabetes e hipertension,BAJA
+315,55,M,37.7,108,153,95,90,6,fractura,diabetes e hipertension,MEDIA
+168,46,F,37.7,107,131,83,90,6,infeccion,asma,MEDIA
+470,45,M,39.7,132,180,99,80,9,hemorragia,asma,ALTA
+297,15,F,38.1,94,158,91,93,7,infeccion,diabetes e hipertension,MEDIA
+475,34,F,40.8,139,151,107,83,9,convulsiones,asma,ALTA
+199,48,F,38.6,97,130,85,94,4,dolor abdominal,hipertension,MEDIA
+298,47,M,38.2,106,126,78,91,6,infeccion,hipertension,MEDIA
+417,82,F,39.4,147,160,116,83,10,perdida de conciencia,asma,ALTA
+147,44,F,37.0,77,126,67,97,3,resfriado,asma,BAJA
+393,69,F,40.7,122,182,93,82,8,perdida de conciencia,asma,ALTA
+148,74,M,36.2,71,110,63,99,0,cefalea leve,diabetes,BAJA
+448,32,F,39.3,160,152,114,85,10,dificultad respiratoria,diabetes,ALTA
+288,67,F,38.8,94,127,82,93,5,dolor abdominal,diabetes,MEDIA
+124,76,F,37.2,71,104,68,99,3,cefalea leve,ninguna,BAJA
+369,8,M,40.8,140,171,115,85,8,perdida de conciencia,diabetes e hipertension,ALTA
+97,47,M,36.4,67,122,64,98,2,control rutinario,hipertension,BAJA
+144,10,F,36.1,87,122,79,99,1,resfriado,diabetes e hipertension,BAJA
+240,84,M,38.3,110,122,78,91,4,infeccion,asma,MEDIA
+443,34,M,39.9,151,185,105,86,10,hemorragia,ninguna,ALTA
+98,69,F,36.1,86,111,81,96,3,cefalea leve,diabetes e hipertension,BAJA
+408,94,M,39.2,141,158,113,89,10,perdida de conciencia,asma,ALTA
+123,19,M,36.8,67,100,80,99,1,control rutinario,hipertension,BAJA
+184,85,M,38.4,90,160,77,90,5,tos persistente,hipertension,MEDIA
+203,72,M,37.6,106,154,93,91,5,infeccion,ninguna,MEDIA
+247,40,M,38.4,99,140,91,90,7,fiebre,diabetes e hipertension,MEDIA
+306,20,F,38.1,97,129,91,94,6,fiebre,diabetes e hipertension,MEDIA
+299,45,F,38.7,118,142,79,90,6,tos persistente,diabetes e hipertension,MEDIA
+352,94,F,39.2,159,168,105,84,9,dificultad respiratoria,ninguna,ALTA
+387,31,M,39.3,159,181,117,81,9,perdida de conciencia,ninguna,ALTA
+396,5,M,40.7,156,189,98,87,8,dolor toracico,ninguna,ALTA
+285,40,F,38.7,93,130,78,90,5,fiebre,diabetes,MEDIA
+126,58,M,36.0,90,128,76,97,1,alergia,hipertension,BAJA
+303,58,F,37.7,95,140,85,90,5,dolor abdominal,asma,MEDIA
+224,72,F,38.4,119,135,89,92,4,fractura,asma,MEDIA
+419,27,F,40.3,149,199,97,80,8,dolor toracico,hipertension,ALTA
+220,49,M,37.8,96,148,88,92,4,fiebre,diabetes,MEDIA
+130,12,M,36.9,71,113,69,99,3,control rutinario,asma,BAJA
+421,80,F,40.9,148,160,119,83,9,dificultad respiratoria,diabetes e hipertension,ALTA
+290,83,M,37.7,103,133,75,90,6,infeccion,diabetes,MEDIA
+445,23,F,40.3,126,162,102,82,8,dificultad respiratoria,ninguna,ALTA
+377,8,F,39.2,139,197,99,84,10,hemorragia,ninguna,ALTA
+292,76,F,38.5,102,158,79,92,5,fiebre,hipertension,MEDIA
+356,72,M,40.0,143,163,94,84,9,convulsiones,diabetes,ALTA
+295,32,F,38.3,107,146,92,91,6,infeccion,hipertension,MEDIA
+397,15,F,39.1,147,183,90,87,9,dificultad respiratoria,hipertension,ALTA
+341,48,F,40.0,154,177,119,80,10,dificultad respiratoria,asma,ALTA
+113,36,F,36.2,71,128,81,96,0,control rutinario,hipertension,BAJA
+180,79,F,38.6,92,143,86,91,6,dolor abdominal,asma,MEDIA
+308,61,M,38.8,98,137,79,93,5,fractura,ninguna,MEDIA
+433,66,M,39.9,147,197,98,86,8,perdida de conciencia,ninguna,ALTA
+488,54,M,39.9,148,183,115,88,8,perdida de conciencia,diabetes e hipertension,ALTA
+482,81,M,39.6,160,173,118,85,9,dificultad respiratoria,ninguna,ALTA
+423,50,F,39.1,125,170,120,88,10,dolor toracico,diabetes e hipertension,ALTA
+234,85,F,38.6,99,120,86,93,5,fractura,asma,MEDIA
+312,17,M,38.6,93,151,87,94,7,infeccion,hipertension,MEDIA
+165,51,M,36.0,74,124,62,98,3,alergia,hipertension,BAJA
+137,23,F,36.6,82,102,64,97,0,control rutinario,hipertension,BAJA
+198,38,F,38.0,108,131,86,90,6,fractura,diabetes e hipertension,MEDIA
+259,16,M,38.2,116,127,80,90,5,dolor abdominal,diabetes,MEDIA
+233,27,F,38.3,103,142,78,95,5,fractura,diabetes e hipertension,MEDIA
+116,59,F,37.1,79,125,84,97,0,malestar general,ninguna,BAJA
+121,67,F,36.2,65,101,81,99,3,resfriado,diabetes,BAJA
+350,79,F,39.5,158,150,105,83,8,hemorragia,ninguna,ALTA
+225,73,F,37.7,96,143,80,92,7,infeccion,diabetes e hipertension,MEDIA
+403,8,M,39.1,121,159,117,86,10,dificultad respiratoria,diabetes,ALTA
+398,69,M,40.0,154,153,94,86,9,hemorragia,hipertension,ALTA
+128,19,M,37.2,81,100,70,100,2,control rutinario,hipertension,BAJA
+286,75,M,37.5,97,136,85,95,7,fiebre,hipertension,MEDIA
+412,1,F,39.4,147,179,114,83,8,dolor toracico,asma,ALTA
+108,31,M,37.4,64,123,70,100,2,resfriado,ninguna,BAJA
+371,85,F,39.5,129,184,117,87,9,hemorragia,diabetes,ALTA
+326,48,F,38.6,91,137,86,93,4,dolor abdominal,diabetes,MEDIA
+134,42,F,37.4,79,110,80,100,1,control rutinario,hipertension,BAJA
+453,67,F,40.5,126,180,106,83,9,dificultad respiratoria,diabetes e hipertension,ALTA
+45,69,M,36.8,89,119,81,100,3,alergia,diabetes,BAJA
+461,35,M,39.4,154,180,91,83,10,dificultad respiratoria,diabetes e hipertension,ALTA
+66,52,F,36.6,70,124,62,99,0,cefalea leve,hipertension,BAJA
+284,88,M,38.0,111,140,87,92,4,fiebre,asma,MEDIA
+86,30,M,36.5,78,101,67,97,0,alergia,hipertension,BAJA
+243,14,F,37.7,120,136,83,94,7,fiebre,asma,MEDIA
+187,71,M,38.8,94,139,94,91,5,infeccion,asma,MEDIA
+384,38,F,39.9,129,184,110,87,9,hemorragia,hipertension,ALTA
+160,39,M,36.2,78,105,60,98,2,malestar general,diabetes,BAJA
+13,52,M,36.7,68,130,79,96,2,control rutinario,diabetes e hipertension,BAJA
+36,12,M,37.0,84,109,70,100,0,resfriado,ninguna,BAJA
+29,43,F,37.0,72,119,77,96,2,resfriado,hipertension,BAJA
+171,86,F,38.2,104,124,79,93,5,fractura,diabetes,MEDIA
+143,37,M,36.2,89,124,79,99,0,cefalea leve,ninguna,BAJA
+399,57,F,39.8,151,173,109,85,10,dificultad respiratoria,ninguna,ALTA
+343,83,M,40.0,121,182,116,83,10,hemorragia,diabetes,ALTA
+222,33,M,38.5,116,160,86,92,4,dolor abdominal,diabetes e hipertension,MEDIA
+96,76,M,37.1,80,105,64,96,2,alergia,ninguna,BAJA
+52,31,F,36.6,86,109,73,100,0,alergia,asma,BAJA
+241,20,F,38.1,103,153,81,93,7,fiebre,diabetes e hipertension,MEDIA
+485,77,F,39.3,125,183,116,82,9,dolor toracico,asma,ALTA
+379,68,F,40.6,159,154,91,88,10,dolor toracico,diabetes e hipertension,ALTA
+179,39,M,38.3,100,150,86,93,4,fiebre,diabetes e hipertension,MEDIA
+42,27,M,37.3,86,125,77,100,0,control rutinario,hipertension,BAJA
+499,60,F,40.2,145,193,114,85,8,dolor toracico,diabetes,ALTA
+422,46,F,40.1,135,170,116,82,8,perdida de conciencia,hipertension,ALTA
+207,40,M,38.4,94,150,91,92,4,infeccion,diabetes e hipertension,MEDIA
+283,60,F,38.0,94,153,80,90,6,tos persistente,diabetes e hipertension,MEDIA
+255,68,M,37.7,103,133,95,95,7,fractura,diabetes e hipertension,MEDIA
+413,17,M,39.6,132,175,90,83,10,dolor toracico,asma,ALTA
+5,8,M,36.3,64,106,83,98,0,alergia,asma,BAJA
+257,42,M,38.9,93,128,90,92,7,fractura,ninguna,MEDIA
+449,5,F,39.3,160,179,107,83,10,dificultad respiratoria,asma,ALTA
+101,64,F,36.6,60,122,77,99,0,cefalea leve,hipertension,BAJA
+227,83,M,38.0,111,149,89,93,6,tos persistente,diabetes,MEDIA
+430,47,M,39.6,160,199,112,81,9,hemorragia,hipertension,ALTA
+214,58,M,37.8,99,147,79,93,6,fractura,hipertension,MEDIA
+172,71,M,37.7,101,123,78,92,7,dolor abdominal,asma,MEDIA
+99,56,F,37.0,85,106,78,100,3,alergia,hipertension,BAJA
+293,10,M,37.5,115,156,81,95,5,dolor abdominal,asma,MEDIA
+216,82,F,38.6,92,126,76,92,5,fiebre,asma,MEDIA
+62,28,F,36.6,68,102,76,100,3,cefalea leve,diabetes e hipertension,BAJA
+48,36,M,36.5,88,114,73,100,3,alergia,asma,BAJA
+33,25,F,37.2,69,128,80,96,0,resfriado,diabetes,BAJA
+268,30,M,38.3,104,151,93,95,5,infeccion,diabetes,MEDIA
+328,20,F,38.7,108,141,85,90,6,dolor abdominal,diabetes e hipertension,MEDIA
+201,11,F,38.1,117,120,90,91,5,dolor abdominal,diabetes,MEDIA
+447,56,F,39.2,155,190,94,81,9,perdida de conciencia,diabetes e hipertension,ALTA
+28,45,F,37.1,87,130,80,97,2,control rutinario,asma,BAJA
+425,57,M,39.7,159,193,113,85,9,perdida de conciencia,hipertension,ALTA
+231,83,M,37.9,117,142,76,95,6,tos persistente,diabetes,MEDIA
+261,82,F,37.7,118,138,76,93,7,fractura,diabetes e hipertension,MEDIA
+289,42,M,39.0,97,134,91,93,5,dolor abdominal,hipertension,MEDIA
+163,61,F,36.4,85,116,76,96,3,malestar general,asma,BAJA
+426,74,M,40.6,138,185,102,89,9,perdida de conciencia,diabetes,ALTA
+139,17,M,37.2,77,110,65,97,2,resfriado,hipertension,BAJA
+63,31,M,36.4,84,128,66,100,3,cefalea leve,diabetes,BAJA
+136,66,F,36.5,89,126,66,99,1,cefalea leve,diabetes,BAJA
+129,7,F,36.3,75,129,83,97,2,control rutinario,asma,BAJA
+477,87,F,40.3,132,187,113,84,10,hemorragia,diabetes,ALTA
+9,19,F,36.8,61,103,61,96,2,cefalea leve,asma,BAJA
+327,50,F,38.9,94,127,92,90,5,fractura,diabetes e hipertension,MEDIA
+464,28,M,40.7,134,170,113,81,8,hemorragia,ninguna,ALTA
+65,71,M,37.1,73,121,84,99,3,cefalea leve,hipertension,BAJA
+301,50,F,38.1,119,141,78,90,6,dolor abdominal,diabetes,MEDIA
+15,68,M,37.0,90,128,78,100,2,resfriado,diabetes,BAJA
+157,80,M,36.1,61,101,79,100,1,cefalea leve,diabetes,BAJA
+41,22,F,37.2,72,109,85,98,0,malestar general,hipertension,BAJA
+380,3,F,40.0,154,186,108,82,9,convulsiones,hipertension,ALTA
+469,9,M,39.8,143,196,96,82,8,hemorragia,asma,ALTA
+404,32,M,39.9,130,166,109,87,9,convulsiones,diabetes,ALTA
+217,14,F,37.6,96,136,87,91,5,tos persistente,ninguna,MEDIA
+280,63,M,38.5,103,136,93,95,6,dolor abdominal,ninguna,MEDIA
+435,28,M,40.8,148,188,105,84,8,dificultad respiratoria,diabetes e hipertension,ALTA
+431,70,F,40.8,128,167,112,87,8,dificultad respiratoria,hipertension,ALTA
+338,7,M,40.1,149,165,114,80,10,dificultad respiratoria,ninguna,ALTA
+237,33,M,37.9,113,141,94,94,4,tos persistente,hipertension,MEDIA
+208,21,F,38.5,118,146,92,93,5,dolor abdominal,ninguna,MEDIA
+213,68,M,38.7,100,140,89,93,7,dolor abdominal,hipertension,MEDIA
+296,49,F,38.2,102,125,77,90,5,tos persistente,diabetes,MEDIA
+458,65,F,39.1,123,181,90,81,10,hemorragia,hipertension,ALTA
+252,29,F,38.8,93,140,81,92,7,tos persistente,hipertension,MEDIA
+489,12,M,40.8,155,199,113,84,9,perdida de conciencia,ninguna,ALTA
+487,3,F,39.2,145,158,108,87,8,dificultad respiratoria,asma,ALTA
+304,26,F,39.0,116,153,80,94,4,fractura,diabetes,MEDIA
+351,21,F,40.1,129,193,91,87,10,perdida de conciencia,diabetes e hipertension,ALTA
+270,61,F,38.3,117,128,79,94,7,dolor abdominal,diabetes e hipertension,MEDIA
+202,55,M,38.5,116,144,94,94,4,fractura,diabetes,MEDIA
+162,29,M,36.3,76,128,78,96,0,malestar general,diabetes e hipertension,BAJA
+44,72,F,36.5,76,129,71,98,2,alergia,hipertension,BAJA
+218,51,F,38.3,112,120,79,95,7,tos persistente,hipertension,MEDIA
+402,3,F,39.4,126,159,111,81,8,perdida de conciencia,diabetes e hipertension,ALTA
+191,58,M,38.3,101,151,93,91,7,fiebre,ninguna,MEDIA
+310,27,M,38.0,117,124,86,91,5,fractura,diabetes e hipertension,MEDIA
+260,77,M,38.7,120,134,85,93,6,dolor abdominal,hipertension,MEDIA
+106,31,M,37.0,82,127,84,96,2,malestar general,diabetes e hipertension,BAJA
+54,26,M,36.4,74,128,75,96,1,cefalea leve,ninguna,BAJA
+390,28,M,39.5,129,199,97,88,10,dificultad respiratoria,diabetes,ALTA
+2,67,F,37.4,67,100,63,99,1,control rutinario,hipertension,BAJA
+442,12,F,40.6,154,194,98,86,9,dolor toracico,asma,ALTA
+483,73,M,40.6,153,165,91,82,9,dolor toracico,hipertension,ALTA
+50,10,M,37.0,90,124,68,97,0,alergia,hipertension,BAJA
+420,46,M,39.6,148,197,100,80,9,dificultad respiratoria,diabetes,ALTA
+81,63,M,36.5,71,113,60,99,1,alergia,ninguna,BAJA
+206,69,F,38.0,109,160,90,94,5,infeccion,asma,MEDIA
+35,7,M,36.8,73,104,74,99,2,cefalea leve,diabetes e hipertension,BAJA
+264,89,M,37.8,107,126,89,93,5,fractura,hipertension,MEDIA
+428,7,F,39.5,148,190,117,87,9,perdida de conciencia,diabetes e hipertension,ALTA
+367,5,F,39.1,120,161,111,87,8,hemorragia,ninguna,ALTA
+92,9,M,36.0,62,103,72,98,3,cefalea leve,asma,BAJA
+340,39,M,39.6,159,185,109,89,8,perdida de conciencia,diabetes e hipertension,ALTA
+474,60,M,39.8,149,196,111,86,8,dificultad respiratoria,hipertension,ALTA
+53,72,M,37.1,90,128,77,100,2,alergia,ninguna,BAJA
+346,45,M,40.4,127,162,113,80,10,perdida de conciencia,asma,ALTA
+265,25,M,37.6,101,127,81,91,5,dolor abdominal,asma,MEDIA
+242,30,F,38.3,105,156,94,91,5,infeccion,asma,MEDIA
+14,21,M,37.3,61,123,81,96,0,cefalea leve,diabetes e hipertension,BAJA
+316,63,M,38.2,120,154,80,94,6,fiebre,diabetes e hipertension,MEDIA
+89,45,M,36.8,69,124,82,98,2,cefalea leve,hipertension,BAJA
+388,20,F,39.6,153,193,119,86,10,dificultad respiratoria,asma,ALTA
+274,22,F,38.0,110,157,84,93,7,tos persistente,hipertension,MEDIA
+167,34,F,38.7,115,123,81,95,6,tos persistente,diabetes e hipertension,MEDIA
+329,26,F,37.6,92,139,78,92,7,fractura,asma,MEDIA
+493,46,M,40.2,132,182,91,83,10,perdida de conciencia,ninguna,ALTA
+135,62,F,36.6,87,120,74,100,2,malestar general,diabetes,BAJA
+307,65,M,38.3,119,141,95,94,7,dolor abdominal,hipertension,MEDIA
+481,32,M,40.2,154,175,104,84,9,dolor toracico,hipertension,ALTA
+320,53,M,37.9,98,141,91,95,4,dolor abdominal,diabetes e hipertension,MEDIA
+244,87,M,37.8,108,157,76,90,4,infeccion,asma,MEDIA
+55,57,F,37.1,78,129,84,96,1,control rutinario,ninguna,BAJA
+364,36,M,41.0,146,190,117,88,8,hemorragia,diabetes e hipertension,ALTA
+51,76,F,36.5,60,120,60,99,3,resfriado,asma,BAJA
+457,88,M,39.9,138,198,119,89,10,dolor toracico,diabetes e hipertension,ALTA
+175,53,M,37.8,112,124,87,90,7,tos persistente,diabetes e hipertension,MEDIA
+446,67,M,39.8,128,192,100,83,8,perdida de conciencia,hipertension,ALTA
+190,86,F,37.7,111,141,84,91,6,infeccion,asma,MEDIA
+497,13,M,39.8,137,189,111,80,9,dificultad respiratoria,hipertension,ALTA
+188,69,M,38.0,102,131,89,94,6,dolor abdominal,ninguna,MEDIA
+170,57,F,38.2,106,160,75,90,4,tos persistente,ninguna,MEDIA
+59,47,M,36.7,80,128,77,97,3,alergia,diabetes,BAJA
+49,34,F,36.3,81,112,60,96,2,control rutinario,diabetes,BAJA
+345,2,M,41.0,142,190,95,84,9,dolor toracico,diabetes e hipertension,ALTA
+236,42,F,38.2,99,154,75,93,4,infeccion,asma,MEDIA
+253,79,F,37.9,110,150,86,91,7,fractura,hipertension,MEDIA
+22,30,F,36.0,73,107,73,96,3,malestar general,asma,BAJA
+314,80,M,38.0,95,131,87,95,4,infeccion,diabetes e hipertension,MEDIA
+460,85,M,39.9,146,154,98,89,10,perdida de conciencia,ninguna,ALTA
+161,80,F,36.9,74,120,81,100,2,alergia,diabetes e hipertension,BAJA
+277,47,F,38.2,97,160,84,94,5,fiebre,diabetes e hipertension,MEDIA
+444,4,F,40.5,124,188,93,88,9,convulsiones,hipertension,ALTA
+192,19,F,37.8,112,137,82,94,6,tos persistente,diabetes,MEDIA
+386,65,M,39.7,160,189,98,85,8,dolor toracico,hipertension,ALTA
+294,85,F,37.6,119,155,76,90,6,infeccion,diabetes e hipertension,MEDIA
+414,6,F,39.8,124,195,120,85,10,convulsiones,asma,ALTA
+344,59,M,40.4,157,164,118,88,9,dificultad respiratoria,ninguna,ALTA
+258,30,M,37.9,108,152,79,94,4,infeccion,diabetes e hipertension,MEDIA
+309,56,M,38.0,102,131,76,95,4,tos persistente,asma,MEDIA
+150,16,F,36.8,83,103,73,98,0,resfriado,hipertension,BAJA
+131,63,M,37.3,76,102,77,99,0,malestar general,ninguna,BAJA
+152,75,M,36.2,60,128,79,96,1,cefalea leve,hipertension,BAJA
+360,27,F,39.7,145,150,90,83,8,convulsiones,asma,ALTA
+100,70,M,36.4,69,114,76,99,2,cefalea leve,asma,BAJA
+373,84,F,39.7,158,198,100,85,8,perdida de conciencia,hipertension,ALTA
+88,44,M,36.1,89,121,61,96,0,resfriado,diabetes e hipertension,BAJA
+459,90,F,39.7,141,185,110,86,9,perdida de conciencia,diabetes,ALTA
+331,39,M,38.9,97,138,88,94,6,dolor abdominal,hipertension,MEDIA
+215,60,M,38.5,91,143,87,91,6,infeccion,diabetes e hipertension,MEDIA
+467,9,M,39.9,127,158,104,88,8,dolor toracico,diabetes e hipertension,ALTA
+122,10,F,36.1,60,128,81,100,2,alergia,diabetes e hipertension,BAJA
+500,34,M,39.9,137,197,102,88,9,perdida de conciencia,diabetes,ALTA
+21,13,F,36.1,74,129,80,100,2,cefalea leve,hipertension,BAJA
+189,80,M,37.6,114,155,90,95,7,fractura,asma,MEDIA
+72,5,M,37.1,61,106,71,99,2,cefalea leve,diabetes,BAJA
+107,48,M,36.7,66,106,69,98,1,alergia,asma,BAJA
+271,52,M,38.6,109,138,92,94,6,fractura,ninguna,MEDIA
+349,32,F,41.0,160,150,117,89,10,hemorragia,ninguna,ALTA
+436,28,F,40.0,135,160,104,81,9,convulsiones,ninguna,ALTA
+103,80,F,36.6,75,121,76,99,3,cefalea leve,hipertension,BAJA

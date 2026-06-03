@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Clasificación Automática de Pacientes</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- PDF LIBRARIES -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Clasificación Automática de Pacientes</h1>
+
+    <!-- FORMULARIO -->
+    <div class="formulario">
+
+        <input type="number" id="edad" placeholder="Edad">
+
+        <select id="sexo">
+            <option value="M">Masculino</option>
+            <option value="F">Femenino</option>
+        </select>
+
+        <input type="number" step="0.1" id="temperatura" placeholder="Temperatura">
+
+        <input type="number" id="frecuencia" placeholder="Frecuencia Cardiaca">
+
+        <input type="number" id="sistolica" placeholder="Presión Sistólica">
+
+        <input type="number" id="diastolica" placeholder="Presión Diastólica">
+
+        <input type="number" id="oxigeno" placeholder="Saturación O2">
+
+        <input type="number" id="dolor" placeholder="Nivel de Dolor">
+
+        <input type="text" id="sintoma" placeholder="Síntoma">
+
+        <input type="text" id="cronica" placeholder="Condición Crónica">
+
+        <button onclick="clasificarPaciente()">
+            Clasificar Paciente
+        </button>
+
+    </div>
+
+    <!-- RESULTADO -->
+    <div id="resultado"></div>
+
+    <!-- HISTORIAL -->
+    <h2>Historial de Pacientes</h2>
+<input
+    type="number"
+    id="buscarId"
+    placeholder="Buscar paciente por ID">
+
+<button onclick="buscarPaciente()">
+    Buscar
+</button>
+    <label>Filtrar por prioridad:</label>
+    <select id="filtroPrioridad" onchange="cargarPacientes()">
+        <option value="TODOS">TODOS</option>
+        <option value="ALTA">ALTA</option>
+        <option value="MEDIA">MEDIA</option>
+        <option value="BAJA">BAJA</option>
+    </select>
+
+    <div id="historial"></div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>

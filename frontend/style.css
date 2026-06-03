@@ -1,0 +1,225 @@
+body{
+    font-family: "Segoe UI", sans-serif;
+    background: linear-gradient(
+        135deg,
+        #0f172a,
+        #1e293b,
+        #334155
+    );
+    margin:0;
+    color:white;
+}
+
+.container{
+    width:1200px;
+    margin:auto;
+    padding:30px;
+}
+
+h1{
+    text-align:center;
+    color:#38bdf8;
+    margin-bottom:25px;
+    text-shadow:0 0 15px rgba(56,189,248,.5);
+}
+
+/* =========================
+   FORMULARIO
+========================= */
+
+.formulario{
+    background:#111827;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 0 25px rgba(0,0,0,.4);
+
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:12px;
+
+    border:1px solid #334155;
+}
+
+input,
+select{
+    padding:12px;
+    border-radius:8px;
+    border:1px solid #334155;
+    background:#1e293b;
+    color:white;
+    font-size:14px;
+}
+
+input:focus,
+select:focus{
+    outline:none;
+    border-color:#38bdf8;
+    box-shadow:0 0 10px rgba(56,189,248,.4);
+}
+
+/* =========================
+   BOTONES
+========================= */
+
+button{
+    padding:10px 15px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:bold;
+    transition:.3s;
+}
+
+button:hover{
+    transform:translateY(-2px);
+}
+
+.formulario button{
+    grid-column:span 2;
+    background:#0ea5e9;
+    color:white;
+    font-size:15px;
+}
+
+/* =========================
+   RESULTADO
+========================= */
+
+#resultado{
+    margin-top:25px;
+    background:#111827;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 0 25px rgba(0,0,0,.4);
+    border:1px solid #334155;
+}
+
+#resultado h2{
+    margin-top:0;
+}
+
+/* =========================
+   PRIORIDADES
+========================= */
+
+.alta{
+    color:#ef4444;
+    font-weight:bold;
+}
+
+.media{
+    color:#f59e0b;
+    font-weight:bold;
+}
+
+.baja{
+    color:#22c55e;
+    font-weight:bold;
+}
+
+/* =========================
+   HISTORIAL
+========================= */
+
+#historial{
+    margin-top:25px;
+}
+
+#historial table{
+    width:100%;
+    border-collapse:collapse;
+    background:#111827;
+    overflow:hidden;
+    border-radius:15px;
+    box-shadow:0 0 20px rgba(0,0,0,.4);
+}
+
+#historial th{
+    background:#0f172a;
+    color:#38bdf8;
+    padding:14px;
+    border:1px solid #334155;
+}
+
+#historial td{
+    padding:12px;
+    border:1px solid #334155;
+}
+
+#historial tr:hover{
+    background:#1e293b;
+}
+
+/* =========================
+   FILTRO Y BUSCADOR
+========================= */
+
+label{
+    font-weight:bold;
+}
+
+#filtroPrioridad,
+#buscarId{
+    margin-bottom:10px;
+}
+
+/* =========================
+   BOTONES DE ACCIONES
+========================= */
+
+button[onclick*="verReporte"]{
+    background:#16a34a;
+    color:white;
+}
+
+button[onclick*="editarPaciente"]{
+    background:#f59e0b;
+    color:white;
+}
+
+button[onclick*="eliminarPaciente"]{
+    background:#dc2626;
+    color:white;
+}
+
+button[onclick*="exportarPDF"]{
+    background:#2563eb;
+    color:white;
+}
+
+/* =========================
+   REPORTE MÉDICO
+========================= */
+
+#reportePDF{
+    background:#0f172a;
+    color:white;
+}
+
+#reportePDF hr{
+    border:1px solid #334155;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media(max-width:1200px){
+
+    .container{
+        width:95%;
+    }
+
+}
+
+@media(max-width:768px){
+
+    .formulario{
+        grid-template-columns:1fr;
+    }
+
+    .formulario button{
+        grid-column:span 1;
+    }
+
+}

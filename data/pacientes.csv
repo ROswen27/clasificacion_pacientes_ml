@@ -1,0 +1,501 @@
+id_paciente,edad,sexo,temperatura_c,frecuencia_cardiaca,presion_sistolica,presion_diastolica,saturacion_oxigeno,nivel_dolor,sintoma,condicion_cronica,prioridad
+1,82,M,35.6,90,111,64,89,1,dolor abdominal,diabetes e hipertension,ALTA
+2,12,F,35.7,58,91,63,92,8,dolor de cabeza,ninguna,ALTA
+3,72,M,40.0,138,169,84,98,3,fractura,diabetes e hipertension,MEDIA
+4,36,M,40.3,75,169,77,95,4,fiebre,diabetes,MEDIA
+5,44,M,36.0,103,92,72,96,9,tos,ninguna,ALTA
+6,59,M,37.9,65,150,68,96,9,fiebre,ninguna,ALTA
+7,6,M,40.4,92,90,104,92,1,fractura,hipertension,MEDIA
+8,59,F,36.5,102,125,63,93,10,dolor abdominal,ninguna,ALTA
+9,78,M,38.9,86,100,79,97,4,dolor abdominal,diabetes e hipertension,MEDIA
+10,29,F,40.8,62,109,102,86,5,fractura,hipertension,ALTA
+11,9,M,39.1,95,107,91,100,6,dolor abdominal,asma,MEDIA
+12,19,F,36.3,86,175,85,93,9,fractura,diabetes e hipertension,ALTA
+13,52,F,36.9,72,145,81,87,0,dificultad para respirar,ninguna,ALTA
+14,20,M,40.5,109,156,54,97,6,dolor de cabeza,asma,MEDIA
+15,68,F,39.0,56,167,96,88,10,dolor de cabeza,hipertension,ALTA
+16,83,F,36.2,92,135,60,99,0,dolor abdominal,hipertension,MEDIA
+17,65,M,38.7,68,160,69,91,2,tos,diabetes,BAJA
+18,70,M,39.3,96,142,51,88,5,dificultad para respirar,hipertension,ALTA
+19,31,M,37.0,127,90,55,100,1,dificultad para respirar,diabetes e hipertension,MEDIA
+20,17,M,39.7,115,150,60,93,8,dificultad para respirar,diabetes e hipertension,ALTA
+21,55,M,38.9,80,171,69,97,10,dolor abdominal,hipertension,ALTA
+22,57,F,36.2,86,108,54,95,0,dolor de cabeza,diabetes e hipertension,MEDIA
+23,30,M,35.5,64,170,90,86,3,dolor en el pecho,ninguna,ALTA
+24,43,M,38.7,85,115,92,100,3,dolor de cabeza,diabetes,MEDIA
+25,74,F,37.0,115,132,62,88,1,dolor abdominal,asma,ALTA
+26,46,F,38.1,114,173,53,88,0,fractura,hipertension,ALTA
+27,14,M,36.7,79,148,78,89,6,fiebre,hipertension,ALTA
+28,60,M,41.0,64,136,101,88,0,dolor abdominal,diabetes e hipertension,ALTA
+29,2,M,40.3,85,101,76,100,7,fiebre,asma,MEDIA
+30,8,M,37.9,55,129,66,99,4,fractura,diabetes e hipertension,MEDIA
+31,85,F,36.4,79,117,63,86,9,dolor abdominal,diabetes e hipertension,ALTA
+32,8,F,35.8,61,154,80,90,0,dolor de cabeza,ninguna,BAJA
+33,24,M,39.3,63,166,105,92,6,dolor en el pecho,diabetes e hipertension,ALTA
+34,32,M,39.4,65,133,92,95,4,fiebre,hipertension,MEDIA
+35,31,F,38.0,71,165,91,94,7,tos,ninguna,BAJA
+36,2,F,39.4,127,92,54,91,8,tos,diabetes,ALTA
+37,45,M,37.0,102,116,60,99,8,dolor abdominal,hipertension,ALTA
+38,79,M,39.7,125,118,109,88,2,tos,ninguna,ALTA
+39,14,M,37.2,91,157,63,95,3,dolor abdominal,hipertension,MEDIA
+40,65,F,37.1,61,91,90,98,4,dolor en el pecho,ninguna,BAJA
+41,43,M,39.5,88,100,97,99,8,dolor abdominal,asma,ALTA
+42,72,M,36.2,64,168,107,89,8,dolor en el pecho,hipertension,ALTA
+43,75,M,38.2,71,85,69,96,0,tos,diabetes,ALTA
+44,88,M,39.7,68,125,99,98,9,dolor abdominal,diabetes,ALTA
+45,31,M,40.6,77,132,51,90,5,dificultad para respirar,asma,MEDIA
+46,86,M,37.2,75,180,94,88,6,dificultad para respirar,ninguna,ALTA
+47,61,M,36.7,113,124,69,92,3,dolor en el pecho,diabetes,MEDIA
+48,52,F,37.2,63,178,67,96,10,dolor de cabeza,asma,ALTA
+49,87,F,35.6,69,113,61,93,0,dolor en el pecho,diabetes e hipertension,MEDIA
+50,56,F,40.1,95,135,88,88,6,dolor de cabeza,diabetes,ALTA
+51,33,M,40.0,110,80,83,91,5,fractura,ninguna,ALTA
+52,86,F,39.4,95,164,104,88,4,dolor de cabeza,hipertension,ALTA
+53,86,F,37.5,106,169,68,89,3,fractura,asma,ALTA
+54,87,M,39.4,127,118,75,85,4,tos,diabetes,ALTA
+55,56,F,38.4,111,136,93,91,8,fractura,diabetes,ALTA
+56,85,M,37.3,120,164,90,95,1,dificultad para respirar,diabetes,MEDIA
+57,87,F,36.9,80,98,51,86,3,fractura,diabetes e hipertension,ALTA
+58,10,F,38.1,135,153,62,97,7,fractura,diabetes,MEDIA
+59,19,M,40.3,68,179,77,92,2,dificultad para respirar,diabetes e hipertension,MEDIA
+60,60,M,39.0,86,95,79,89,7,dolor abdominal,diabetes e hipertension,ALTA
+61,72,F,40.3,111,158,102,98,8,fractura,diabetes,ALTA
+62,61,F,37.1,86,161,67,100,10,fiebre,hipertension,ALTA
+63,57,M,40.0,91,110,67,95,5,dolor de cabeza,ninguna,MEDIA
+64,18,M,36.9,104,168,59,91,1,fractura,asma,MEDIA
+65,43,F,38.1,62,106,103,98,6,dificultad para respirar,diabetes e hipertension,MEDIA
+66,90,M,40.9,128,128,80,85,5,tos,asma,ALTA
+67,54,M,38.6,83,114,77,100,0,fractura,hipertension,MEDIA
+68,86,F,40.1,76,139,108,89,9,dolor de cabeza,ninguna,ALTA
+69,51,M,36.0,137,134,58,99,2,dolor en el pecho,hipertension,MEDIA
+70,49,F,36.8,113,121,71,97,4,dificultad para respirar,asma,MEDIA
+71,33,M,38.5,57,175,84,86,5,fiebre,ninguna,ALTA
+72,84,M,40.3,58,111,62,85,9,fiebre,diabetes,ALTA
+73,17,F,39.7,69,152,110,91,7,dolor abdominal,hipertension,MEDIA
+74,48,M,39.3,132,175,95,88,2,tos,ninguna,ALTA
+75,75,M,37.4,128,166,108,97,6,dolor abdominal,diabetes,MEDIA
+76,10,M,36.1,93,167,88,88,9,dificultad para respirar,ninguna,ALTA
+77,45,F,39.7,102,88,82,95,0,dificultad para respirar,asma,ALTA
+78,63,M,38.2,101,161,107,99,2,fractura,diabetes,MEDIA
+79,67,F,39.4,123,179,80,99,6,dificultad para respirar,diabetes e hipertension,MEDIA
+80,35,F,40.9,86,91,67,99,3,dificultad para respirar,asma,MEDIA
+81,73,F,37.6,58,143,104,95,2,fractura,diabetes,MEDIA
+82,46,F,37.6,90,156,94,93,8,dolor en el pecho,diabetes e hipertension,ALTA
+83,25,M,37.0,107,142,85,92,7,dolor abdominal,asma,BAJA
+84,58,M,36.0,92,108,75,92,4,dolor abdominal,diabetes e hipertension,MEDIA
+85,48,F,39.0,122,124,77,95,5,dolor abdominal,asma,MEDIA
+86,35,F,37.1,84,95,96,91,5,dolor en el pecho,diabetes e hipertension,ALTA
+87,89,M,36.7,82,174,80,93,9,dificultad para respirar,diabetes e hipertension,ALTA
+88,77,F,36.1,79,117,64,96,2,tos,ninguna,BAJA
+89,69,M,37.2,60,86,85,94,2,dolor abdominal,asma,ALTA
+90,14,M,39.1,91,140,80,99,5,fiebre,ninguna,MEDIA
+91,33,F,36.2,63,131,81,87,9,dolor abdominal,ninguna,ALTA
+92,20,M,40.6,127,118,55,92,1,dolor de cabeza,asma,MEDIA
+93,78,M,40.4,121,128,78,99,4,dificultad para respirar,diabetes e hipertension,MEDIA
+94,55,F,39.1,134,87,89,88,3,dolor abdominal,diabetes,ALTA
+95,34,M,36.5,85,102,85,87,2,dolor en el pecho,asma,ALTA
+96,58,F,37.3,59,109,68,94,7,dolor en el pecho,diabetes,MEDIA
+97,34,M,38.2,69,149,64,89,4,dificultad para respirar,diabetes,ALTA
+98,10,M,36.5,94,156,97,94,7,dolor en el pecho,asma,BAJA
+99,89,F,39.9,106,114,82,100,7,dolor en el pecho,diabetes e hipertension,ALTA
+100,6,F,40.2,96,157,66,85,1,fiebre,diabetes e hipertension,ALTA
+101,76,M,40.3,89,153,52,90,7,dolor de cabeza,asma,MEDIA
+102,36,M,39.2,110,161,102,100,1,fractura,hipertension,MEDIA
+103,53,F,37.5,140,93,104,90,5,fractura,asma,MEDIA
+104,37,F,40.7,125,84,79,87,5,tos,hipertension,ALTA
+105,15,F,41.0,120,80,92,99,6,dolor en el pecho,diabetes,ALTA
+106,67,F,39.4,118,160,78,86,3,tos,diabetes e hipertension,ALTA
+107,17,F,38.3,117,95,51,92,2,tos,diabetes e hipertension,BAJA
+108,2,F,36.0,83,94,79,88,10,dificultad para respirar,diabetes,ALTA
+109,64,F,38.7,89,133,103,100,7,fiebre,asma,BAJA
+110,71,M,37.9,79,156,82,89,1,tos,asma,ALTA
+111,44,F,40.7,55,116,96,94,9,dolor de cabeza,asma,ALTA
+112,20,F,38.9,116,124,71,97,7,tos,diabetes,BAJA
+113,90,M,39.1,104,109,104,98,0,tos,asma,MEDIA
+114,49,F,39.7,138,99,81,86,2,dolor de cabeza,diabetes e hipertension,ALTA
+115,43,M,41.0,111,92,83,99,0,dolor abdominal,diabetes,MEDIA
+116,53,M,35.9,115,180,66,95,9,dolor abdominal,asma,ALTA
+117,84,M,40.9,97,166,104,97,5,dolor abdominal,asma,MEDIA
+118,70,M,39.4,63,110,90,94,3,dolor abdominal,ninguna,MEDIA
+119,56,M,40.3,136,170,105,88,7,fiebre,hipertension,ALTA
+120,4,M,37.5,62,117,72,96,6,fiebre,diabetes,MEDIA
+121,68,F,39.1,78,101,61,87,9,dificultad para respirar,asma,ALTA
+122,80,M,38.6,129,98,64,99,10,tos,asma,ALTA
+123,33,M,40.6,114,116,93,90,1,fractura,hipertension,MEDIA
+124,76,F,39.5,109,168,66,99,4,fiebre,asma,MEDIA
+125,62,M,37.0,103,153,72,94,4,dolor en el pecho,asma,BAJA
+126,36,M,39.1,61,157,97,100,4,dificultad para respirar,diabetes,MEDIA
+127,78,F,36.9,136,104,89,93,10,dificultad para respirar,diabetes,ALTA
+128,81,M,39.5,137,85,69,99,0,dolor de cabeza,hipertension,ALTA
+129,17,M,37.3,96,175,76,90,3,fiebre,diabetes e hipertension,MEDIA
+130,47,F,40.8,76,112,108,100,4,dolor abdominal,hipertension,MEDIA
+131,15,F,35.9,73,176,64,97,8,tos,ninguna,ALTA
+132,51,M,37.1,123,95,79,96,10,dolor abdominal,hipertension,ALTA
+133,75,F,40.7,136,127,56,92,7,dolor en el pecho,diabetes e hipertension,ALTA
+134,72,F,39.4,83,162,54,99,4,dolor abdominal,asma,MEDIA
+135,15,M,35.7,59,118,81,88,1,fiebre,diabetes e hipertension,ALTA
+136,18,F,38.4,102,165,110,98,9,dolor abdominal,diabetes,ALTA
+137,54,M,40.8,117,158,76,93,0,dolor abdominal,hipertension,MEDIA
+138,28,F,38.3,85,126,56,96,8,dolor abdominal,hipertension,ALTA
+139,8,F,37.2,79,95,110,99,1,dolor abdominal,diabetes,MEDIA
+140,83,M,35.8,97,111,58,91,1,dificultad para respirar,diabetes e hipertension,MEDIA
+141,27,M,40.7,84,122,99,89,9,dolor en el pecho,hipertension,ALTA
+142,19,M,38.9,87,102,57,85,2,dolor en el pecho,hipertension,ALTA
+143,31,F,35.6,77,113,53,89,6,dolor de cabeza,ninguna,ALTA
+144,9,F,38.3,101,145,87,88,7,dolor de cabeza,diabetes,ALTA
+145,79,M,40.1,139,146,69,99,10,dolor en el pecho,ninguna,ALTA
+146,62,F,38.2,68,142,95,99,1,dolor en el pecho,hipertension,MEDIA
+147,78,M,35.9,71,115,89,95,6,dolor de cabeza,diabetes e hipertension,MEDIA
+148,38,F,38.7,132,135,56,88,10,dolor abdominal,diabetes e hipertension,ALTA
+149,28,F,38.3,84,132,71,99,6,fractura,ninguna,MEDIA
+150,41,F,37.5,140,112,73,89,10,fractura,ninguna,ALTA
+151,12,M,36.0,110,92,97,96,2,dolor de cabeza,ninguna,BAJA
+152,76,F,39.7,70,132,72,98,0,tos,diabetes e hipertension,MEDIA
+153,40,F,36.1,128,144,63,89,10,fractura,diabetes,ALTA
+154,14,F,40.9,126,127,57,93,9,fiebre,asma,ALTA
+155,72,M,39.3,139,168,67,85,2,tos,hipertension,ALTA
+156,44,F,35.5,78,98,86,97,1,fiebre,ninguna,BAJA
+157,12,M,37.9,108,138,71,90,5,tos,hipertension,BAJA
+158,73,M,35.8,74,100,98,86,10,dolor en el pecho,hipertension,ALTA
+159,57,F,38.6,132,136,76,93,3,dificultad para respirar,diabetes e hipertension,MEDIA
+160,15,F,38.2,69,116,93,100,8,dolor abdominal,hipertension,ALTA
+161,6,M,38.0,131,87,50,91,4,fiebre,diabetes,ALTA
+162,33,F,37.5,70,80,81,98,2,fiebre,asma,ALTA
+163,69,M,38.7,126,165,101,96,1,fractura,ninguna,MEDIA
+164,56,M,38.4,64,120,86,98,9,fractura,asma,ALTA
+165,38,M,38.0,57,121,60,99,5,dolor en el pecho,asma,BAJA
+166,14,M,38.2,130,131,83,87,6,dificultad para respirar,hipertension,ALTA
+167,44,M,37.6,76,89,82,88,8,dolor de cabeza,diabetes,ALTA
+168,45,F,40.1,137,98,65,88,2,tos,diabetes,ALTA
+169,23,M,40.3,138,89,61,100,7,dificultad para respirar,diabetes e hipertension,ALTA
+170,75,F,39.8,127,162,90,95,10,tos,diabetes,ALTA
+171,57,M,38.5,111,160,69,93,9,dolor en el pecho,hipertension,ALTA
+172,65,M,37.4,114,137,52,86,5,dificultad para respirar,hipertension,ALTA
+173,10,M,39.4,131,144,74,99,9,dolor de cabeza,ninguna,ALTA
+174,58,M,37.5,132,140,82,89,0,fractura,ninguna,ALTA
+175,44,M,38.7,137,102,52,92,7,fractura,diabetes e hipertension,MEDIA
+176,67,M,37.8,102,116,74,98,5,dolor abdominal,diabetes e hipertension,MEDIA
+177,7,F,35.9,97,92,85,97,4,tos,diabetes e hipertension,BAJA
+178,20,F,36.0,129,164,59,96,4,dolor abdominal,asma,BAJA
+179,17,M,37.4,126,128,91,95,2,dolor abdominal,diabetes e hipertension,MEDIA
+180,12,F,38.7,101,82,73,94,2,fiebre,hipertension,ALTA
+181,63,M,36.9,72,99,54,94,1,dolor de cabeza,diabetes e hipertension,MEDIA
+182,68,M,39.7,98,178,89,89,9,fractura,diabetes,ALTA
+183,21,M,40.8,134,101,96,99,0,fractura,hipertension,MEDIA
+184,87,M,38.3,133,116,98,99,3,dolor de cabeza,diabetes,MEDIA
+185,40,F,40.8,79,127,93,99,7,dificultad para respirar,hipertension,MEDIA
+186,49,F,36.5,80,157,58,93,0,dolor abdominal,asma,BAJA
+187,48,M,40.0,121,95,68,87,2,tos,asma,ALTA
+188,66,M,40.8,110,91,110,92,7,tos,ninguna,MEDIA
+189,54,M,38.0,119,127,65,97,1,tos,diabetes,BAJA
+190,4,F,36.1,138,122,100,89,2,dolor en el pecho,hipertension,ALTA
+191,61,M,40.3,115,137,89,85,1,dolor en el pecho,hipertension,ALTA
+192,28,M,39.0,132,147,77,88,4,fiebre,hipertension,ALTA
+193,16,M,37.0,108,161,100,99,1,dolor en el pecho,asma,BAJA
+194,77,M,39.5,120,153,65,89,4,fractura,ninguna,ALTA
+195,79,F,37.0,128,133,61,87,8,tos,ninguna,ALTA
+196,68,M,37.9,115,85,90,97,5,tos,ninguna,ALTA
+197,46,M,37.7,85,173,92,88,9,dolor abdominal,hipertension,ALTA
+198,18,M,37.7,124,123,102,90,10,fractura,asma,ALTA
+199,81,M,40.6,72,88,95,99,0,tos,diabetes,ALTA
+200,6,M,35.7,95,119,82,97,8,fractura,hipertension,ALTA
+201,5,M,37.3,100,179,53,95,4,dolor en el pecho,hipertension,MEDIA
+202,56,F,40.2,111,129,71,90,7,dolor abdominal,asma,MEDIA
+203,48,F,40.6,65,173,77,87,6,dolor de cabeza,diabetes,ALTA
+204,70,F,37.5,68,90,70,94,4,fractura,diabetes e hipertension,MEDIA
+205,55,M,39.9,111,124,78,86,5,dolor de cabeza,asma,ALTA
+206,36,M,35.9,140,161,75,96,8,dificultad para respirar,diabetes,ALTA
+207,4,M,40.9,132,166,100,99,0,fiebre,ninguna,MEDIA
+208,31,F,37.8,104,152,52,89,10,fractura,hipertension,ALTA
+209,48,F,40.3,64,153,58,96,6,tos,hipertension,MEDIA
+210,32,M,35.6,78,143,83,97,8,dolor en el pecho,hipertension,ALTA
+211,34,F,36.8,133,116,94,100,3,dolor en el pecho,diabetes,MEDIA
+212,10,F,36.6,111,91,101,95,10,tos,ninguna,ALTA
+213,71,F,37.4,75,171,95,90,5,dolor de cabeza,diabetes,MEDIA
+214,16,M,40.5,72,110,100,100,0,tos,diabetes e hipertension,MEDIA
+215,74,F,38.4,125,96,89,87,1,tos,asma,ALTA
+216,62,F,40.4,107,153,54,89,5,dolor abdominal,ninguna,ALTA
+217,58,F,39.8,121,124,58,90,2,fractura,diabetes e hipertension,MEDIA
+218,8,M,38.8,74,118,60,90,5,dolor abdominal,diabetes,MEDIA
+219,45,F,40.9,65,112,62,93,2,dolor abdominal,hipertension,MEDIA
+220,79,M,38.7,137,101,87,89,2,dolor abdominal,diabetes e hipertension,ALTA
+221,78,F,40.8,127,85,102,85,1,dolor en el pecho,diabetes e hipertension,ALTA
+222,34,M,40.4,128,133,89,85,7,dolor abdominal,diabetes e hipertension,ALTA
+223,38,F,38.5,86,167,75,94,7,dolor en el pecho,ninguna,BAJA
+224,21,F,38.1,116,139,63,95,9,fiebre,hipertension,ALTA
+225,41,F,38.0,71,177,73,88,5,fiebre,asma,ALTA
+226,16,F,38.3,86,98,56,86,4,fractura,diabetes e hipertension,ALTA
+227,54,M,41.0,75,121,109,95,3,dificultad para respirar,diabetes,MEDIA
+228,64,F,38.6,94,143,51,87,6,dolor de cabeza,asma,ALTA
+229,31,M,39.2,100,86,53,94,7,dolor de cabeza,asma,ALTA
+230,37,M,40.9,68,135,58,93,5,dificultad para respirar,asma,MEDIA
+231,47,M,38.0,61,152,85,91,5,dolor de cabeza,hipertension,MEDIA
+232,10,F,38.7,112,177,85,93,9,dolor abdominal,diabetes e hipertension,ALTA
+233,16,M,36.1,105,127,100,95,8,tos,diabetes,ALTA
+234,26,F,38.7,60,85,52,89,5,dificultad para respirar,asma,ALTA
+235,67,F,36.4,132,145,58,95,9,tos,diabetes,ALTA
+236,51,F,39.2,98,144,103,100,9,tos,asma,ALTA
+237,3,F,37.6,69,133,87,94,10,dolor en el pecho,diabetes e hipertension,ALTA
+238,61,F,39.6,129,153,64,86,9,fractura,diabetes,ALTA
+239,68,F,36.4,86,84,86,88,3,dolor en el pecho,asma,ALTA
+240,41,F,36.4,107,168,63,98,8,dificultad para respirar,diabetes e hipertension,ALTA
+241,61,M,40.0,72,146,63,95,10,fractura,diabetes e hipertension,ALTA
+242,49,F,36.6,113,148,71,96,10,dificultad para respirar,hipertension,ALTA
+243,79,F,36.7,86,115,85,94,3,tos,hipertension,BAJA
+244,27,F,37.5,116,124,85,93,4,dolor en el pecho,diabetes e hipertension,MEDIA
+245,87,F,38.0,99,178,101,89,4,dolor en el pecho,hipertension,ALTA
+246,11,F,38.3,138,112,97,100,3,fiebre,diabetes e hipertension,MEDIA
+247,35,F,36.3,68,158,97,92,3,dolor en el pecho,diabetes e hipertension,MEDIA
+248,29,M,35.8,67,132,71,100,1,dolor abdominal,diabetes,MEDIA
+249,1,M,38.1,138,140,80,91,4,tos,hipertension,BAJA
+250,83,M,40.4,66,163,86,92,8,dolor abdominal,ninguna,ALTA
+251,23,F,40.8,77,84,103,97,7,fiebre,hipertension,ALTA
+252,5,M,37.4,127,157,56,95,4,fractura,diabetes e hipertension,MEDIA
+253,68,F,36.3,119,139,67,91,1,tos,diabetes,BAJA
+254,59,F,40.0,78,81,97,95,4,dolor de cabeza,diabetes,ALTA
+255,23,F,40.7,109,145,70,87,6,dolor abdominal,ninguna,ALTA
+256,24,M,38.5,96,111,50,93,6,fiebre,asma,BAJA
+257,35,F,37.4,129,172,86,85,4,dolor abdominal,hipertension,ALTA
+258,89,M,35.8,140,95,79,94,2,fractura,diabetes e hipertension,MEDIA
+259,40,M,39.5,92,127,89,92,3,fiebre,asma,MEDIA
+260,20,F,40.2,132,127,76,100,8,dificultad para respirar,diabetes,ALTA
+261,32,M,38.8,112,147,95,96,1,dolor de cabeza,ninguna,BAJA
+262,8,M,39.1,123,99,60,95,8,fractura,ninguna,ALTA
+263,88,M,40.0,129,142,55,99,0,fractura,diabetes,MEDIA
+264,66,F,38.4,127,87,85,99,10,dificultad para respirar,hipertension,ALTA
+265,3,F,37.1,55,175,63,87,0,fractura,hipertension,ALTA
+266,90,M,38.9,62,88,109,100,0,tos,asma,ALTA
+267,24,M,40.4,137,173,91,98,5,fractura,asma,MEDIA
+268,49,F,36.0,139,149,58,96,1,fiebre,diabetes e hipertension,MEDIA
+269,51,M,40.1,83,80,98,85,4,fractura,diabetes e hipertension,ALTA
+270,55,F,40.7,84,111,79,96,2,tos,diabetes,MEDIA
+271,15,M,40.6,139,133,89,85,3,fiebre,ninguna,ALTA
+272,13,M,38.3,131,166,95,86,3,dolor abdominal,ninguna,ALTA
+273,52,F,36.9,124,107,98,86,2,dolor de cabeza,hipertension,ALTA
+274,30,F,39.1,131,178,93,95,3,tos,diabetes,MEDIA
+275,85,M,38.1,93,115,53,90,10,dolor abdominal,asma,ALTA
+276,72,F,35.8,99,162,92,97,8,tos,asma,ALTA
+277,53,M,37.4,103,103,98,100,3,dificultad para respirar,diabetes,MEDIA
+278,39,M,40.6,114,87,85,98,6,dolor de cabeza,diabetes e hipertension,ALTA
+279,18,F,37.0,87,106,71,87,7,dificultad para respirar,hipertension,ALTA
+280,12,M,35.8,89,128,93,86,1,fiebre,diabetes e hipertension,ALTA
+281,86,M,38.5,81,122,69,85,3,fiebre,ninguna,ALTA
+282,62,M,39.9,132,170,63,97,3,dolor de cabeza,hipertension,MEDIA
+283,37,F,38.4,123,163,72,94,4,tos,diabetes e hipertension,BAJA
+284,64,F,36.1,115,177,103,95,3,tos,hipertension,BAJA
+285,53,M,39.1,83,174,59,85,4,dolor de cabeza,diabetes e hipertension,ALTA
+286,75,F,37.3,74,105,71,92,6,dolor de cabeza,diabetes,MEDIA
+287,64,F,37.1,117,172,91,100,7,fiebre,hipertension,MEDIA
+288,22,M,40.1,124,142,61,86,8,dolor en el pecho,ninguna,ALTA
+289,86,M,40.3,55,132,58,92,1,dolor abdominal,diabetes,MEDIA
+290,2,M,38.7,113,127,53,100,10,fractura,ninguna,ALTA
+291,1,F,35.5,57,147,96,93,8,tos,ninguna,ALTA
+292,65,F,40.6,77,93,108,88,8,fiebre,diabetes,ALTA
+293,25,F,40.7,100,114,100,97,1,tos,asma,MEDIA
+294,59,M,39.9,83,118,93,87,10,dificultad para respirar,ninguna,ALTA
+295,12,F,37.9,103,150,80,86,10,dolor en el pecho,diabetes,ALTA
+296,11,F,40.9,110,162,100,95,9,dificultad para respirar,ninguna,ALTA
+297,68,M,36.9,82,168,106,100,4,dolor en el pecho,ninguna,BAJA
+298,88,F,38.9,127,164,52,90,5,dolor en el pecho,diabetes,ALTA
+299,76,M,40.3,105,89,69,90,9,fiebre,diabetes e hipertension,ALTA
+300,50,F,37.9,72,168,96,87,8,dolor abdominal,hipertension,ALTA
+301,7,M,38.2,84,89,71,97,5,dolor en el pecho,hipertension,ALTA
+302,58,F,36.9,100,150,110,97,6,fiebre,diabetes e hipertension,MEDIA
+303,85,F,36.0,134,117,101,92,1,dolor en el pecho,hipertension,MEDIA
+304,20,F,40.0,136,99,97,97,5,tos,ninguna,MEDIA
+305,12,M,37.4,111,126,98,93,1,fiebre,ninguna,BAJA
+306,24,F,38.3,126,151,82,98,1,dolor en el pecho,ninguna,BAJA
+307,46,M,39.3,131,180,70,97,0,tos,asma,MEDIA
+308,50,M,40.1,126,111,86,90,10,fractura,diabetes,ALTA
+309,18,F,37.4,89,143,59,87,2,fractura,hipertension,ALTA
+310,54,F,38.5,64,126,66,92,10,fractura,diabetes e hipertension,ALTA
+311,79,M,38.4,68,97,69,85,6,tos,diabetes e hipertension,ALTA
+312,49,F,38.3,97,135,102,89,4,tos,diabetes e hipertension,ALTA
+313,89,M,38.5,95,102,75,95,4,dolor abdominal,asma,BAJA
+314,74,M,37.5,103,115,102,97,5,dolor en el pecho,diabetes e hipertension,MEDIA
+315,26,M,39.8,125,83,110,99,3,fractura,hipertension,ALTA
+316,89,M,40.7,107,166,81,89,10,tos,diabetes,ALTA
+317,33,M,40.0,109,128,54,99,9,fractura,diabetes e hipertension,ALTA
+318,52,F,38.9,59,126,94,87,1,dificultad para respirar,diabetes,ALTA
+319,85,F,36.5,137,158,52,97,5,dificultad para respirar,asma,MEDIA
+320,14,M,36.1,88,108,82,92,7,tos,asma,BAJA
+321,60,M,37.7,58,141,56,94,6,dolor en el pecho,ninguna,BAJA
+322,19,F,37.4,98,138,100,91,8,fractura,hipertension,ALTA
+323,61,M,38.3,112,120,54,94,0,dificultad para respirar,ninguna,MEDIA
+324,3,F,39.6,68,166,101,90,3,dolor de cabeza,diabetes,MEDIA
+325,71,M,37.6,126,134,79,92,6,dolor abdominal,diabetes,MEDIA
+326,24,F,38.0,58,174,89,91,7,dolor de cabeza,asma,BAJA
+327,50,M,40.0,82,106,67,87,9,dolor en el pecho,diabetes e hipertension,ALTA
+328,24,F,37.5,80,138,57,93,10,dificultad para respirar,asma,ALTA
+329,68,F,39.3,104,158,75,88,5,tos,asma,ALTA
+330,80,M,40.7,93,158,87,87,10,fiebre,hipertension,ALTA
+331,16,M,37.4,69,103,73,89,8,fractura,asma,ALTA
+332,77,M,39.1,104,134,61,100,10,dolor de cabeza,diabetes,ALTA
+333,72,M,38.6,91,97,61,95,7,dolor de cabeza,ninguna,BAJA
+334,46,M,38.6,72,104,102,97,8,dolor de cabeza,asma,ALTA
+335,53,F,38.1,111,142,60,87,9,dolor en el pecho,diabetes,ALTA
+336,38,M,37.2,83,148,68,90,7,dolor de cabeza,asma,BAJA
+337,71,M,39.1,69,114,99,96,8,dificultad para respirar,ninguna,ALTA
+338,57,M,38.2,68,174,103,92,4,dificultad para respirar,ninguna,MEDIA
+339,58,F,37.7,66,136,105,88,3,fiebre,diabetes e hipertension,ALTA
+340,89,F,41.0,133,160,77,90,9,fiebre,diabetes,ALTA
+341,27,M,39.1,99,148,67,90,5,dolor abdominal,hipertension,MEDIA
+342,38,F,40.9,120,166,102,88,2,dificultad para respirar,asma,ALTA
+343,8,F,41.0,138,96,94,89,3,fiebre,hipertension,ALTA
+344,32,F,38.6,73,153,90,93,10,fractura,asma,ALTA
+345,58,M,39.5,66,131,82,93,5,fractura,asma,MEDIA
+346,42,M,41.0,66,173,79,96,1,dificultad para respirar,diabetes e hipertension,MEDIA
+347,51,M,38.2,82,143,67,95,4,tos,diabetes e hipertension,BAJA
+348,74,M,39.1,117,180,71,86,0,dolor en el pecho,asma,ALTA
+349,3,M,40.9,75,136,79,85,6,fiebre,diabetes,ALTA
+350,84,F,36.5,90,91,91,96,4,dolor en el pecho,hipertension,MEDIA
+351,86,M,35.8,105,160,69,92,6,dolor abdominal,ninguna,BAJA
+352,13,M,36.8,116,89,58,92,8,dolor abdominal,asma,ALTA
+353,2,M,39.9,98,95,105,98,2,fractura,ninguna,MEDIA
+354,30,F,36.0,68,93,70,96,4,fiebre,asma,BAJA
+355,18,M,35.9,122,152,50,90,7,tos,diabetes,BAJA
+356,81,M,38.1,133,167,78,91,1,dolor en el pecho,diabetes,ALTA
+357,16,F,37.7,109,120,100,89,3,tos,ninguna,ALTA
+358,32,F,40.4,58,164,106,94,3,dolor de cabeza,diabetes e hipertension,MEDIA
+359,66,M,40.2,105,117,91,86,3,fractura,asma,ALTA
+360,15,M,38.6,136,156,54,85,5,tos,diabetes,ALTA
+361,50,F,37.8,124,167,61,100,1,dolor en el pecho,diabetes e hipertension,MEDIA
+362,9,M,37.1,82,85,109,86,6,dolor de cabeza,hipertension,ALTA
+363,81,F,38.2,106,90,90,89,4,dolor en el pecho,hipertension,ALTA
+364,11,M,40.6,74,148,70,97,9,dolor abdominal,ninguna,ALTA
+365,40,F,40.1,85,87,65,87,6,dolor en el pecho,asma,ALTA
+366,79,M,37.4,140,174,92,90,1,dolor en el pecho,diabetes,ALTA
+367,90,M,36.5,118,124,83,93,2,tos,diabetes,BAJA
+368,35,M,40.4,58,122,101,98,4,dolor de cabeza,ninguna,MEDIA
+369,34,M,38.6,113,145,73,86,7,dificultad para respirar,diabetes e hipertension,ALTA
+370,22,F,36.5,87,178,56,88,3,dolor abdominal,diabetes e hipertension,ALTA
+371,1,M,40.9,56,111,52,100,5,fractura,diabetes,MEDIA
+372,23,M,39.0,138,133,64,95,3,fractura,hipertension,MEDIA
+373,35,M,39.1,102,95,82,86,2,fiebre,diabetes e hipertension,ALTA
+374,6,F,35.9,114,116,99,94,5,dolor en el pecho,diabetes e hipertension,MEDIA
+375,59,M,37.8,80,117,86,94,9,fiebre,asma,ALTA
+376,48,F,40.4,80,173,107,92,2,dolor en el pecho,asma,ALTA
+377,4,M,38.9,99,161,103,85,5,dolor en el pecho,asma,ALTA
+378,40,M,36.8,122,110,76,100,0,fiebre,hipertension,MEDIA
+379,12,M,36.9,121,132,94,96,7,dolor abdominal,ninguna,BAJA
+380,75,M,38.7,72,161,102,97,1,dolor de cabeza,diabetes e hipertension,MEDIA
+381,8,F,39.7,71,110,68,93,5,dificultad para respirar,asma,MEDIA
+382,90,F,37.5,112,114,64,87,3,fiebre,diabetes e hipertension,ALTA
+383,14,M,36.1,76,137,79,95,6,dolor en el pecho,diabetes e hipertension,MEDIA
+384,46,M,38.3,94,139,66,88,1,fiebre,hipertension,ALTA
+385,90,M,36.8,96,98,55,92,5,fractura,diabetes e hipertension,MEDIA
+386,7,F,37.1,77,83,110,97,7,dolor de cabeza,diabetes e hipertension,ALTA
+387,32,M,38.4,68,97,57,85,0,dificultad para respirar,diabetes,ALTA
+388,17,M,40.7,106,127,93,87,9,dolor de cabeza,hipertension,ALTA
+389,10,M,35.9,80,162,78,89,1,dificultad para respirar,hipertension,ALTA
+390,16,M,38.4,61,101,109,98,6,fractura,ninguna,MEDIA
+391,49,F,36.6,100,107,108,90,4,tos,asma,BAJA
+392,20,M,39.4,134,158,65,94,7,fractura,diabetes e hipertension,MEDIA
+393,62,M,36.0,90,129,58,98,3,dolor abdominal,diabetes e hipertension,MEDIA
+394,32,M,37.9,100,141,84,100,5,dolor de cabeza,diabetes e hipertension,MEDIA
+395,42,F,37.2,78,83,70,92,0,dificultad para respirar,hipertension,ALTA
+396,8,F,38.8,100,178,87,92,2,dolor en el pecho,diabetes,MEDIA
+397,85,M,37.2,123,174,53,92,9,dificultad para respirar,asma,ALTA
+398,46,M,36.6,85,155,70,96,9,dolor en el pecho,hipertension,ALTA
+399,73,M,39.1,79,143,84,94,2,fractura,ninguna,MEDIA
+400,12,M,36.9,132,108,51,100,0,tos,diabetes e hipertension,BAJA
+401,26,M,37.6,77,121,53,85,2,dolor de cabeza,diabetes,ALTA
+402,15,F,35.9,102,170,110,97,9,dolor en el pecho,hipertension,ALTA
+403,39,F,36.3,75,173,110,98,10,fractura,hipertension,ALTA
+404,23,F,36.9,140,155,102,90,6,tos,hipertension,BAJA
+405,17,M,40.1,55,169,110,97,9,dolor en el pecho,diabetes,ALTA
+406,78,F,40.6,133,108,90,88,7,fiebre,hipertension,ALTA
+407,10,M,37.7,95,101,90,87,10,dolor abdominal,hipertension,ALTA
+408,58,M,37.1,81,111,94,87,5,tos,ninguna,ALTA
+409,1,M,37.9,111,173,76,90,6,fractura,asma,MEDIA
+410,45,F,36.1,116,180,105,92,2,fractura,ninguna,MEDIA
+411,5,F,35.6,95,113,110,88,1,tos,diabetes,ALTA
+412,49,M,40.1,64,150,110,87,5,dolor de cabeza,diabetes e hipertension,ALTA
+413,62,M,38.2,138,101,88,98,2,dolor en el pecho,ninguna,BAJA
+414,43,M,36.7,107,169,85,93,10,tos,hipertension,ALTA
+415,31,M,35.8,105,153,85,100,2,dolor en el pecho,hipertension,MEDIA
+416,1,F,36.0,92,164,90,100,3,dolor en el pecho,ninguna,BAJA
+417,27,M,39.5,92,90,80,88,4,dificultad para respirar,asma,ALTA
+418,61,F,39.7,88,91,91,97,2,tos,asma,MEDIA
+419,48,M,38.3,60,113,78,99,4,fiebre,hipertension,MEDIA
+420,73,M,36.4,140,92,55,96,8,fractura,diabetes e hipertension,ALTA
+421,30,M,40.8,104,146,76,100,9,fiebre,asma,ALTA
+422,39,M,38.0,59,144,86,89,1,dificultad para respirar,asma,ALTA
+423,23,M,36.8,79,96,52,98,1,dolor abdominal,asma,BAJA
+424,26,M,40.8,131,113,70,87,1,fractura,diabetes e hipertension,ALTA
+425,51,F,40.9,90,146,79,85,9,dolor de cabeza,diabetes e hipertension,ALTA
+426,54,M,38.1,74,98,86,88,1,dolor de cabeza,ninguna,ALTA
+427,37,F,38.1,88,129,91,100,9,dolor de cabeza,asma,ALTA
+428,5,M,37.2,106,98,89,97,0,fractura,hipertension,MEDIA
+429,89,M,35.8,115,114,107,96,0,tos,hipertension,BAJA
+430,40,F,40.8,117,169,93,88,3,fiebre,hipertension,ALTA
+431,57,F,37.2,108,157,91,87,3,fractura,diabetes,ALTA
+432,53,F,40.3,121,127,102,86,8,dificultad para respirar,diabetes,ALTA
+433,9,F,40.0,119,131,58,85,2,fiebre,diabetes,ALTA
+434,8,M,35.7,113,86,108,96,3,tos,hipertension,ALTA
+435,60,F,39.5,70,167,51,92,5,fractura,diabetes e hipertension,MEDIA
+436,58,M,41.0,115,155,85,96,5,fiebre,hipertension,MEDIA
+437,89,M,37.3,58,129,53,90,9,dificultad para respirar,diabetes,ALTA
+438,29,M,39.8,81,114,91,98,8,dolor en el pecho,ninguna,ALTA
+439,61,M,39.6,77,156,101,85,3,tos,diabetes e hipertension,ALTA
+440,40,F,38.2,103,124,79,93,3,fractura,hipertension,MEDIA
+441,87,F,39.2,68,80,82,96,8,dolor abdominal,diabetes e hipertension,ALTA
+442,78,F,37.4,68,141,54,95,4,dolor abdominal,hipertension,MEDIA
+443,36,F,39.6,138,118,62,89,8,dificultad para respirar,diabetes,ALTA
+444,8,F,39.7,95,167,58,85,10,fractura,hipertension,ALTA
+445,34,F,38.0,104,174,52,91,5,dolor abdominal,diabetes,MEDIA
+446,88,F,39.7,100,144,69,90,10,dolor de cabeza,diabetes,ALTA
+447,38,M,38.5,71,174,66,90,10,tos,ninguna,ALTA
+448,29,F,36.9,94,133,100,95,5,tos,diabetes e hipertension,BAJA
+449,38,F,40.9,70,140,53,87,7,fiebre,diabetes e hipertension,ALTA
+450,16,F,38.8,93,132,53,89,2,fiebre,hipertension,ALTA
+451,53,F,36.4,95,171,61,87,7,tos,diabetes,ALTA
+452,41,M,35.5,112,115,63,90,9,dificultad para respirar,diabetes,ALTA
+453,63,M,36.3,133,135,90,98,6,fractura,asma,MEDIA
+454,50,M,35.7,123,105,96,96,0,tos,diabetes e hipertension,BAJA
+455,25,M,39.8,55,160,96,92,3,dolor abdominal,hipertension,MEDIA
+456,40,M,36.1,104,144,87,94,2,dolor en el pecho,ninguna,BAJA
+457,39,F,38.4,121,156,83,95,6,dolor abdominal,diabetes,MEDIA
+458,44,F,37.7,79,101,110,97,0,fiebre,diabetes,MEDIA
+459,17,M,40.1,57,155,82,90,1,tos,ninguna,MEDIA
+460,49,F,40.4,123,159,53,86,10,dolor en el pecho,ninguna,ALTA
+461,7,M,38.1,111,128,57,93,7,dolor abdominal,diabetes,MEDIA
+462,27,M,37.4,108,164,56,93,9,dolor de cabeza,diabetes,ALTA
+463,54,M,38.7,134,95,68,88,1,fractura,diabetes,ALTA
+464,78,M,40.4,88,146,62,96,6,tos,diabetes,MEDIA
+465,6,F,36.8,116,122,65,85,0,dolor abdominal,ninguna,ALTA
+466,15,F,36.4,66,179,82,87,1,tos,diabetes,ALTA
+467,59,F,37.1,114,86,56,90,0,dificultad para respirar,hipertension,ALTA
+468,47,F,38.2,69,92,104,86,0,dificultad para respirar,diabetes,ALTA
+469,85,M,37.6,100,136,89,93,1,tos,hipertension,BAJA
+470,24,M,38.0,106,138,67,97,7,dificultad para respirar,asma,MEDIA
+471,84,M,36.2,71,169,96,86,2,dolor en el pecho,asma,ALTA
+472,76,F,40.6,127,166,78,90,9,fractura,hipertension,ALTA
+473,79,M,41.0,71,141,108,100,1,fractura,asma,MEDIA
+474,6,M,37.1,138,120,50,92,10,dificultad para respirar,hipertension,ALTA
+475,67,M,38.2,139,173,65,100,5,dolor abdominal,asma,BAJA
+476,20,M,35.5,137,100,82,100,7,dificultad para respirar,diabetes,MEDIA
+477,10,F,37.5,85,122,67,86,8,fiebre,diabetes e hipertension,ALTA
+478,83,F,38.0,85,90,79,99,9,fractura,ninguna,ALTA
+479,64,F,37.5,70,143,97,85,1,fractura,asma,ALTA
+480,5,M,40.7,66,157,89,94,8,dolor de cabeza,diabetes,ALTA
+481,84,F,37.6,101,86,102,92,7,tos,diabetes e hipertension,ALTA
+482,80,F,40.0,139,126,95,99,1,dolor en el pecho,diabetes,ALTA
+483,1,F,37.7,136,117,85,96,1,dolor en el pecho,diabetes,MEDIA
+484,64,M,40.7,107,93,66,91,3,dolor en el pecho,asma,ALTA
+485,28,F,40.7,79,171,71,88,6,dolor en el pecho,diabetes e hipertension,ALTA
+486,16,F,38.4,139,155,82,89,7,dolor en el pecho,diabetes e hipertension,ALTA
+487,7,F,40.8,129,141,109,90,9,fiebre,diabetes,ALTA
+488,14,F,39.7,131,157,106,95,8,fractura,asma,ALTA
+489,78,M,37.2,105,123,68,99,2,fiebre,asma,BAJA
+490,78,F,40.8,125,120,95,91,3,fiebre,diabetes e hipertension,MEDIA
+491,38,F,39.8,71,170,91,90,8,dolor de cabeza,hipertension,ALTA
+492,15,F,39.0,116,154,86,98,10,dolor abdominal,diabetes e hipertension,ALTA
+493,37,F,40.6,56,146,56,85,6,fiebre,ninguna,ALTA
+494,86,M,36.7,89,176,100,90,4,dolor abdominal,hipertension,MEDIA
+495,19,M,39.9,92,106,98,86,5,dificultad para respirar,asma,ALTA
+496,14,M,40.2,137,151,74,92,8,dificultad para respirar,hipertension,ALTA
+497,89,M,37.9,104,133,100,95,8,dolor en el pecho,ninguna,ALTA
+498,33,M,39.4,111,108,108,96,9,dolor de cabeza,diabetes e hipertension,ALTA
+499,26,M,37.3,112,102,93,87,2,fiebre,diabetes e hipertension,ALTA
+500,16,F,35.7,109,115,85,93,2,fiebre,diabetes e hipertension,MEDIA
